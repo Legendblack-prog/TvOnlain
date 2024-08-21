@@ -1,0 +1,239 @@
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",.Sci-Fi
+http://195.211.27.149:8887/8115/index.m3u8?token=test
+#EXTINF:-1 group-title="Музончик" resolution="1280@720",CHD-TV RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",Sunset Movie
+https://stream.sunset-media.ru:443/Free/Free/1.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",Sunset Music
+https://stream.sunset-media.ru:443/Free/Free/2.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="768@432",Dancehits 80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="640@360",XITE 90s Throwback
+https://jmp2.uk/SamsungTVPlus/USBB3200007AK.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1024@576",Muzzik Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="848@480",XITE R&B Classic Jams
+https://jmp2.uk/SamsungTVPlus/USBD330000948.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="848@480",XITE Rock On
+https://jmp2.uk/SamsungTVPlus/USBB2300004KV.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="848@480",XITE Hits
+https://jmp2.uk/SamsungTVPlus/USBD3300004RH.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="848@480",XITE 80s Flashback
+https://jmp2.uk/SamsungTVPlus/USBB320000647.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1024@576",Muzzik Jeka
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="854@480",Magic TV
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1280@720",VIVA Russia
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1280@720",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1024@576",Retro TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1024@576",Muzzik Mediteraneo
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1024@576",Muzzik HipHop
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",Downtempo
+https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",EDM Mainstage
+https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",DANCE TV TECHNO
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",Best of Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1280@720",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1280@720",Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1280@720",Deluxe Flashback
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1280@720",Deluxe Music TV
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1280@720",Bridge TV Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1280@720",RU.TV
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1024@576",Bridge TV
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1280@720",BRIDGE TV Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1280@720",Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="1024@576",Bridge TV Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 group-title="Музончик" resolution="720@576",Музыка Первого
+http://195.211.27.149:8887/8135/index.m3u8?token=test
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",МузТВ
+http://195.211.27.149:8887/8190/index.m3u8?token=test
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",RU.TV
+http://195.211.27.149:8887/8185/index.m3u8?token=test
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",Европа плюс тв
+http://195.211.27.149:8887/8033/index.m3u8?token=test
+#EXTINF:-1 group-title="Музончик" resolution="704@576",MTV
+http://195.211.27.149:8887/8137/index.m3u8?token=test
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",ТНТ Music
+http://195.211.27.149:8887/8350/index.m3u8?token=test
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",MTV Live HD
+http://195.211.27.149:8887/8177/index.m3u8?token=test
+#EXTINF:-1 group-title="Музончик" resolution="720@576",MTV
+http://195.211.27.149:8887/8032/index.m3u8?token=test
+#EXTINF:-1 group-title="Музончик" resolution="720@576",Russian Music box
+http://195.211.27.149:8887/8189/index.m3u8?token=test
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",Жара
+http://195.211.27.149:8887/8361/index.m3u8?token=test
+#EXTINF:-1 group-title="Киношечки" resolution="1280@720",ITV Cinema
+https://iptv.itv.uz/hls/live/t/MNnb4XbkRII8wOJsfiL5VQ/e/1780568010/4000/index.m3u8
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",МузТВ
+https://st1.uzdigital.tv/test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиношечкиКиношечки" resolution="720@576",VIP Premiere HDRussischer Jahrmarkt
+https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:-1 group-title="Киношечки" resolution="720@576",Cinema Classic TV
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 group-title="Киношечки" resolution="880@720",Тайна
+https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Киношечки" resolution="720@576",Cinema
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Киношечки" resolution="720@576",Fox
+http://195.211.27.149:8887/8051/index.m3u8?token=test
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",Нано ТВ HD
+http://195.211.27.149:8887/8181/index.m3u8?token=test
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",MM Love HD
+http://195.211.27.149:8887/8328/index.m3u8?token=test
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",MM Семейный 1 HD
+http://195.211.27.149:8887/8449/index.m3u8?token=test
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",MM Семейный 2 HD
+http://195.211.27.149:8887/8442/index.m3u8?token=test
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",2x2
+http://195.211.27.149:8887/8045/index.m3u8?token=test
+#EXTINF:-1 group-title="Киношечки" resolution="720@576",Amedia 1
+http://195.211.27.149:8887/8035/index.m3u8?token=test
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",Еврокино
+http://195.211.27.149:8887/8034/index.m3u8?token=test
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",VIP Megahit
+http://195.211.27.149:8887/8109/index.m3u8?token=test
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",VIP Premiere
+http://195.211.27.149:8887/8119/index.m3u8?token=test
+#EXTINF:-1 group-title="Киношечки" resolution="720@576",НСТ
+http://195.211.27.149:8887/8165/index.m3u8?token=test
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",Мужское кино
+http://195.211.27.149:8887/8070/index.m3u8?token=test
+#EXTINF:-1 group-title="Музончик" resolution="1920@1080",CHD-TV Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",Капитан фантастика
+http://195.211.27.149:8887/8321/index.m3u8?token=test
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",Кино ТВ
+http://195.211.27.149:8887/8207/index.m3u8?token=test
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",Смотрим Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",Смотрим Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Киношечки" resolution="1920@1080",Кинопремьера HD
+http://178.124.179.122:8088/Kinopremiera/index.m3u8
+#EXTINF:-1 group-title="КиношечкиКиношечкиКиношечкиБормотушки" resolution="720@576",Добавленный каналДобавленный каналДобавленный каналТехно 24
+https://st1.uzdigital.tv/Tehno_24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Бормотушки" resolution="872@576",Точка отрыва
+https://st1.uzdigital.tv/Tochka_Otriva/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Бормотушки" resolution="720@576",TOP SECRET
+http://195.211.27.149:8887/8073/index.m3u8?token=test
+#EXTINF:-1 group-title="Бормотушки" resolution="1920@1080",NDR
+http://195.211.27.149:8887/8091/index.m3u8?token=test
+#EXTINF:-1 group-title="Бормотушки" resolution="720@396",Ю
+http://195.211.27.149:8887/8099/index.m3u8?token=test
+#EXTINF:-1 group-title="Бормотушки" resolution="720@576",Дождь
+http://195.211.27.149:8887/8113/index.m3u8?token=test
+#EXTINF:-1 group-title="Бормотушки" resolution="720@576",RTVI
+http://195.211.27.149:8887/8118/index.m3u8?token=test
+#EXTINF:-1 group-title="Бормотушки" resolution="720@576",Психология 21
+http://195.211.27.149:8887/8192/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="720@576",TVMChannel
+http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Природа всякая" resolution="1920@1080",Travel+Adventure HD
+http://195.211.27.149:8887/8170/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="1920@1080",Nat geo wild HD
+http://195.211.27.149:8887/8188/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="1920@1080",National Geographic HD
+http://195.211.27.149:8887/8176/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="720@576",Ocean TV
+http://195.211.27.149:8887/8069/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="1920@1080",RTG HD
+http://195.211.27.149:8887/8173/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="720@576",Телепутешествия
+http://195.211.27.149:8887/8182/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="720@576",Animal Planet
+http://195.211.27.149:8887/8075/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="1920@1080",NAT GEO WILD
+http://195.211.27.149:8887/8079/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="720@576",National Geographic
+http://195.211.27.149:8887/8080/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="720@576",Домашние Животные
+http://195.211.27.149:8887/8081/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="720@576",История
+http://195.211.27.149:8887/8082/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="1024@576",Travel Channel
+http://195.211.27.149:8887/8083/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="1920@1080",VIASAT EXPLORE
+http://195.211.27.149:8887/8085/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="1920@1080",VIASAT NATURE
+http://195.211.27.149:8887/8087/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="720@576",Galaxy
+http://195.211.27.149:8887/8337/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="1920@1080",HD Life
+http://195.211.27.149:8887/8175/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="1920@1080",HGTV
+http://195.211.27.149:8887/8355/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="1920@1080",Investigation Discovery
+http://195.211.27.149:8887/8074/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="1920@1080",Discovery Channel
+http://195.211.27.149:8887/8076/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="1920@1080",Mezzo
+http://195.211.27.149:8887/8031/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="720@576",Русский Экстрим
+http://195.211.27.149:8887/8098/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="1920@1080",Мега
+http://195.211.27.149:8887/8100/index.m3u8?token=test
+#EXTINF:-1 group-title="Природа всякая" resolution="1920@1080",Museum HD
+https://stream2.cinerama.uz/1451/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мульты" resolution="1920@1080",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="Мульты" resolution="1920@1080",Sunset Kids
+https://stream.sunset-media.ru:443/Free/Free/4.m3u8
+#EXTINF:-1 group-title="Мульты" resolution="1920@1080",Sunset Anime
+https://stream.sunset-media.ru/Free/Free/5.m3u8
+#EXTINF:-1 group-title="Мульты" resolution="872@576",TiJi
+https://st1.uzdigital.tv/TiJi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мульты" resolution="872@576",Русский Детектив
+https://st1.uzdigital.tv/RusskiyDetektiv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мульты" resolution="1920@1080",Мульт HD
+https://st1.uzdigital.tv/MultHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мульты" resolution="720@576",Nickelodeon
+https://st1.uzdigital.tv/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мульты" resolution="720@576",Мультиландия
+https://st1.uzdigital.tv/Multilandiya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мульты" resolution="720@576",МУЛЬТИМАНИЯ
+https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
+#EXTINF:-1 group-title="Мульты" resolution="720@576",Карусель
+http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
+#EXTINF:-1 group-title="Мульты" resolution="720@576",Солнце
+http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мульты" resolution="1920@1080",В Гостях у Сказки
+http://195.211.27.149:8887/8133/index.m3u8?token=test
+#EXTINF:-1 group-title="Мульты" resolution="1920@1080",Cartoon Network
+http://195.211.27.149:8887/8064/index.m3u8?token=test
+#EXTINF:-1 group-title="Мульты" resolution="720@576",Cartoonito
+http://195.211.27.149:8887/8332/index.m3u8?token=test
+#EXTINF:-1 group-title="Мульты" resolution="720@576",Nickelodeon
+http://195.211.27.149:8887/8055/index.m3u8?token=test
+#EXTINF:-1 group-title="Мульты" resolution="720@576",Nick Jr
+http://195.211.27.149:8887/8153/index.m3u8?token=test
+#EXTINF:-1 group-title="Мульты" resolution="720@576",TiJi
+http://195.211.27.149:8887/8110/index.m3u8?token=test
+#EXTINF:-1 group-title="Мульты" resolution="1920@1080",Мульт HD
+http://195.211.27.149:8887/8223/index.m3u8?token=test
