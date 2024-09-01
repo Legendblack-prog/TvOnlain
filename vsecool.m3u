@@ -1,0 +1,3479 @@
+#EXTM3U 
+#EXTINF:-1   tvg-rec="7",VF Владимир Высоцкий 
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10066/index.m3u8
+#EXTINF:-1   tvg-rec="3",VF Счастливы Вместе
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/9242/index.m3u8
+#EXTINF:-1   tvg-rec="7",VF Два с половиной человека
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10062/index.m3u8
+#EXTINF:-1   tvg-rec="7",VF Бесстыжие
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10075/index.m3u8
+#EXTINF:-1  tvg-id="vf-elki"   tvg-rec="0",VF Ёлки
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14222/index.m3u8
+#EXTINF:-1  tvg-id="vf-newyear"   tvg-rec="0",VF New Year
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15522/index.m3u8
+#EXTINF:-1  tvg-id="vf-snovymgodom"   tvg-rec="0",VF С новым годом!
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15524/index.m3u8
+#EXTINF:-1  tvg-id="vf-nowogodni"   tvg-rec="0",VF Новогодний
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17035/index.m3u8
+#EXTINF:-1  tvg-id="vf-kartochnydomik"   tvg-rec="0",VF Карточный домик
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14221/index.m3u8
+#EXTINF:-1  tvg-id="vf-garipoter"   tvg-rec="0",VF Гарри Поттер 
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14230/index.m3u8
+#EXTINF:-1  tvg-id="vf-sexcity"   tvg-rec="0",VF Секс в большом городе
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14224/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Теория большого взрыва
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15009/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Disney Movie
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15010/index.m3u8
+#EXTINF:-1  tvg-id="tv-rus"   tvg-rec="0",TV Rus
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14022/index.m3u8
+#EXTINF:-1  tvg-id="timeless-dizi"   tvg-rec="0",Timeless Dizi Channel
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14006/index.m3u8
+#EXTINF:-1  tvg-id="fox"   tvg-rec="0",Fox
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6516/index.m3u8
+#EXTINF:-1  tvg-id="foxlife"   tvg-rec="3",Fox Life
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/9232/index.m3u8
+#EXTINF:-1  tvg-id="tv1000-russkoe-kino"   tvg-rec="7",Viju TV1000 Русское
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/101/index.m3u8
+#EXTINF:-1   tvg-rec="0",beIN Drama QA
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6137/index.m3u8
+#EXTINF:-1  tvg-id="fx-comedy-pl"   tvg-rec="3",FOX COMEDY PL
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6107/index.m3u8
+#EXTINF:-1   tvg-rec="3",CINEMAXX MORE MAXX US
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6152/index.m3u8
+#EXTINF:-1   tvg-rec="3",CINEMAX OUTER MAX US
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6154/index.m3u8
+#EXTINF:-1   tvg-rec="3",CINEMAX MOVIEMAX US
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6155/index.m3u8
+#EXTINF:-1   tvg-rec="3",CINEMAX ACTION MAX EAST US
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6156/index.m3u8
+#EXTINF:-1   tvg-rec="3",Canal+ Series FR
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6008/index.m3u8
+#EXTINF:-1  tvg-id="nostalgia"   tvg-rec="7",Ностальгия
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/102/index.m3u8
+#EXTINF:-1  tvg-id="sts-love"   tvg-rec="7",СТС Love
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/103/index.m3u8
+#EXTINF:-1  tvg-id="sony-scifi"   tvg-rec="7",.sci-fi
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/110/index.m3u8
+#EXTINF:-1  tvg-id="kinomiks"   tvg-rec="7",Киномикс
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/509/index.m3u8
+#EXTINF:-1  tvg-id="kinosemiya"   tvg-rec="7",Киносемья
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/125/index.m3u8
+#EXTINF:-1  tvg-id="rodnoe-kino"   tvg-rec="7",Родное Кино
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/126/index.m3u8
+#EXTINF:-1  tvg-id="tv1000-action"   tvg-rec="7",Viju TV1000 Action
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/131/index.m3u8
+#EXTINF:-1  tvg-id="kinoxit"   tvg-rec="7",Кинохит
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/516/index.m3u8
+#EXTINF:-1  tvg-id="amedia2"   tvg-rec="7",Amedia 2
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/510/index.m3u8
+#EXTINF:-1  tvg-id="nashe-novoe-kino"   tvg-rec="7",Наше Новое Кино
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/517/index.m3u8
+#EXTINF:-1  tvg-id="tvxxi"   tvg-rec="7",TV XXI
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/525/index.m3u8
+#EXTINF:-1  tvg-id="kinokomedia"   tvg-rec="7",Кинокомедия
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/145/index.m3u8
+#EXTINF:-1  tvg-id="indiyskoe-kino"   tvg-rec="7",Индийское Кино
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/146/index.m3u8
+#EXTINF:-1  tvg-id="kinoseria"   tvg-rec="7",Киносерия
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/148/index.m3u8
+#EXTINF:-1  tvg-id="russky-illuzion"   tvg-rec="7",Русский Иллюзион
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/547/index.m3u8
+#EXTINF:-1  tvg-id="evrokino"   tvg-rec="7",Еврокино
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/549/index.m3u8
+#EXTINF:-1  tvg-id="kineko"   tvg-rec="7",Кинеко
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/550/index.m3u8
+#EXTINF:-1  tvg-id="sapfir"   tvg-rec="7",Сапфир 
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/553/index.m3u8
+#EXTINF:-1  tvg-id="domkino"   tvg-rec="7",Дом Кино
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/154/index.m3u8
+#EXTINF:-1  tvg-id="amedia1"   tvg-rec="7",Amedia 1
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/554/index.m3u8
+#EXTINF:-1  tvg-id="amedia-premium"   tvg-rec="7",Amedia Premium
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/555/index.m3u8
+#EXTINF:-1  tvg-id="amedia-hit"   tvg-rec="7",Amedia Hit
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/556/index.m3u8
+#EXTINF:-1  tvg-id="tv1000"   tvg-rec="7",Viju TV1000
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/132/index.m3u8
+#EXTINF:-1  tvg-id="muzhskoe-kino"   tvg-rec="7",Мужское Кино
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/164/index.m3u8
+#EXTINF:-1  tvg-id="hollywood"   tvg-rec="7",Hollywood
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/557/index.m3u8
+#EXTINF:-1  tvg-id="sony-tv"   tvg-rec="7",.red
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/559/index.m3u8
+#EXTINF:-1  tvg-id="2na2"   tvg-rec="7",2x2
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/702/index.m3u8
+#EXTINF:-1  tvg-id="sony-turbo"   tvg-rec="7",.black
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/708/index.m3u8
+#EXTINF:-1  tvg-id="russky-bestseller"   tvg-rec="7",Русский бестселлер
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/905/index.m3u8
+#EXTINF:-1  tvg-id="russky-roman"   tvg-rec="7",Русский роман
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/906/index.m3u8
+#EXTINF:-1  tvg-id="russky-detektiv"   tvg-rec="7",Русский детектив
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/907/index.m3u8
+#EXTINF:-1  tvg-id="lubimoe-kino"   tvg-rec="7",Любимое Кино
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/722/index.m3u8
+#EXTINF:-1  tvg-id="kinosvidanie"   tvg-rec="7",Киносвидание
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/728/index.m3u8
+#EXTINF:-1  tvg-id="kino-tv"   tvg-rec="7",Кино ТВ
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/732/index.m3u8
+#EXTINF:-1  tvg-id="russkaya-komedia"   tvg-rec="7",Русская Комедия
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/733/index.m3u8
+#EXTINF:-1  tvg-id="fanhd"   tvg-rec="7",FAN
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/734/index.m3u8
+#EXTINF:-1  tvg-id="fanhd"   tvg-rec="0",FAN HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16021/index.m3u8
+#EXTINF:-1  tvg-id="ntv-xit"   tvg-rec="7",НТВ Хит
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/741/index.m3u8
+#EXTINF:-1  tvg-id="ntv-serial"   tvg-rec="7",НТВ Сериал
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/744/index.m3u8
+#EXTINF:-1  tvg-id="nst"   tvg-rec="7",НСТ
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/726/index.m3u8
+#EXTINF:-1  tvg-id="zee-tv"   tvg-rec="3",Индия
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1001/index.m3u8
+#EXTINF:-1  tvg-id="filmbox-arthouse"   tvg-rec="3",FilmBox ArtHouse
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1071/index.m3u8
+#EXTINF:-1  tvg-id="dorama"   tvg-rec="3",Дорама
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1066/index.m3u8
+#EXTINF:-1  tvg-id="mir-seriala"   tvg-rec="7",Мир Сериала
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/856/index.m3u8
+#EXTINF:-1  tvg-id="retro-tv"   tvg-rec="7",Ретро
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2018/index.m3u8
+#EXTINF:-1  tvg-id="illuzion-plus"   tvg-rec="7",Иллюзион+
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2038/index.m3u8
+#EXTINF:-1   tvg-rec="7",Феникс плюс Кино
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2039/index.m3u8
+#EXTINF:-1  tvg-id="sony-tv"   tvg-rec="3",.red HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2062/index.m3u8
+#EXTINF:-1   tvg-rec="3",Киноман
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2121/index.m3u8
+#EXTINF:-1  tvg-id="cinema-ru"   tvg-rec="3",Cinema
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/5051/index.m3u8
+#EXTINF:-1   tvg-rec="3",Sky Select UK
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2474/index.m3u8
+#EXTINF:-1   tvg-rec="3",Sky Cinema Action HD DE
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2482/index.m3u8
+#EXTINF:-1   tvg-rec="3",Sky Cinema Fun DE
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2483/index.m3u8
+#EXTINF:-1   tvg-rec="3",Sky Cinema HD DE
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2484/index.m3u8
+#EXTINF:-1   tvg-rec="3",Sky Cinema Special HD DE
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2485/index.m3u8
+#EXTINF:-1   tvg-rec="3",Sky Atlantic HD DE
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2488/index.m3u8
+#EXTINF:-1   tvg-rec="3",Sky Cinema Family HD DE
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2489/index.m3u8
+#EXTINF:-1   tvg-rec="3",Sky Cinema Nostalgie DE
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2490/index.m3u8
+#EXTINF:-1   tvg-rec="3",Sky Krimi DE
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2491/index.m3u8
+#EXTINF:-1   tvg-rec="3",Sky Arts HD DE
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2494/index.m3u8
+#EXTINF:-1   tvg-rec="3",Sky Hits HD DE
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2486/index.m3u8
+#EXTINF:-1  tvg-id="mosfilm"   tvg-rec="3",Мосфильм. Золотая коллекция
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6392/index.m3u8
+#EXTINF:-1  tvg-id="trashtv"   tvg-rec="3",Trash HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6396/index.m3u8
+#EXTINF:-1   tvg-rec="3",Movistar Accion ES
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7065/index.m3u8
+#EXTINF:-1   tvg-rec="3",Movistar Comedia ES
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7066/index.m3u8
+#EXTINF:-1   tvg-rec="3",Movistar Drama ES
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7067/index.m3u8
+#EXTINF:-1  tvg-id="premialnoe-hd"   tvg-rec="0",Премиальное HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7222/index.m3u8
+#EXTINF:-1   tvg-rec="0",RTL Passion HD DE
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7230/index.m3u8
+#EXTINF:-1   tvg-rec="0",Sky Romance TV FHD DE
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7231/index.m3u8
+#EXTINF:-1  tvg-id="kinosemiya"   tvg-rec="0",Киносемья HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7244/index.m3u8
+#EXTINF:-1  tvg-id="kinosvidanie"   tvg-rec="0",Киносвидание HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7245/index.m3u8
+#EXTINF:-1  tvg-id="strashnoe-hd"   tvg-rec="0",Страшное HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7247/index.m3u8
+#EXTINF:-1  tvg-id="kinokomedia"   tvg-rec="0",Кинокомедия HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7248/index.m3u8
+#EXTINF:-1  tvg-id="kinomiks"   tvg-rec="0",Киномикс HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7249/index.m3u8
+#EXTINF:-1  tvg-id="kinoxit"   tvg-rec="0",Кинохит HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7250/index.m3u8
+#EXTINF:-1  tvg-id="kinojam1"   tvg-rec="0",KinoJam 1 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7260/index.m3u8
+#EXTINF:-1  tvg-id="kinojam2"   tvg-rec="0",KinoJam 2 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7261/index.m3u8
+#EXTINF:-1   tvg-rec="0",TVP Seriale PL
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7281/index.m3u8
+#EXTINF:-1   tvg-rec="0",Kino Polska PL
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7291/index.m3u8
+#EXTINF:-1   tvg-rec="0",Мосфильм. Золотая коллекция HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7347/index.m3u8
+#EXTINF:-1  tvg-id="vf-adventure"   tvg-rec="7",VF Adventure
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10000/index.m3u8
+#EXTINF:-1  tvg-id="vf-anime"   tvg-rec="7",VF Anime
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10001/index.m3u8
+#EXTINF:-1  tvg-id="vf-cartoon"   tvg-rec="7",VF Cartoon
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10002/index.m3u8
+#EXTINF:-1  tvg-id="vf-comedy"   tvg-rec="7",VF Comedy
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10003/index.m3u8
+#EXTINF:-1  tvg-id="vf-family"   tvg-rec="7",VF Family
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10004/index.m3u8
+#EXTINF:-1  tvg-id="vf-fantasy"   tvg-rec="7",VF Fantasy
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10005/index.m3u8
+#EXTINF:-1  tvg-id="vf-melodrama"   tvg-rec="7",VF Melodrama
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10006/index.m3u8
+#EXTINF:-1  tvg-id="vf-mystic"   tvg-rec="7",VF Mystic
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10007/index.m3u8
+#EXTINF:-1  tvg-id="vf-uzhasy"   tvg-rec="7",VF Ужасы
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10008/index.m3u8
+#EXTINF:-1   tvg-rec="7",VF VHS MIX
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10009/index.m3u8
+#EXTINF:-1  tvg-id="vf-uzhasy-vhs"   tvg-rec="7",VF Ужасы VHS
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10010/index.m3u8
+#EXTINF:-1  tvg-id="vf-premiera"   tvg-rec="7",VF Премьера
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10051/index.m3u8
+#EXTINF:-1  tvg-id="vf-premiere"   tvg-rec="7",VF Premiere
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10052/index.m3u8
+#EXTINF:-1  tvg-id="vf-klassika"   tvg-rec="7",VF Классика
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10053/index.m3u8
+#EXTINF:-1  tvg-id="vf-classic"   tvg-rec="7",VF Classic
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10054/index.m3u8
+#EXTINF:-1  tvg-id="vf-komedia"   tvg-rec="7",VF Комедия
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10055/index.m3u8
+#EXTINF:-1  tvg-id="vf-katastrofy"   tvg-rec="7",VF Катастрофы
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10080/index.m3u8
+#EXTINF:-1  tvg-id="vf-marvel"   tvg-rec="7",VF Marvel
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10081/index.m3u8
+#EXTINF:-1  tvg-id="vf-voennye"   tvg-rec="7",VF Военные
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10082/index.m3u8
+#EXTINF:-1  tvg-id="vf-pobeda"   tvg-rec="7",VF Наша победа
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10083/index.m3u8
+#EXTINF:-1  tvg-id="vf-mosfilm"   tvg-rec="7",VF Мосфильм
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10084/index.m3u8
+#EXTINF:-1  tvg-id="vf-filmy-sssr"   tvg-rec="7",VF Фильмы СССР
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10085/index.m3u8
+#EXTINF:-1  tvg-id="vf-multfilmy-sssr"   tvg-rec="7",VF Мультфильмы СССР
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10086/index.m3u8
+#EXTINF:-1  tvg-id="vf-boevik"   tvg-rec="7",VF Боевик
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10087/index.m3u8
+#EXTINF:-1   tvg-rec="7",Flix Snip
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10060/index.m3u8
+#EXTINF:-1   tvg-rec="7",Backus TV Dark HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10061/index.m3u8
+#EXTINF:-1  tvg-id="shot-tv"   tvg-rec="3",Shot TV
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/526/index.m3u8
+#EXTINF:-1  tvg-id="cineman"   tvg-rec="7",CineMan
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11004/index.m3u8
+#EXTINF:-1  tvg-id="cineman-top"   tvg-rec="7",CineMan Top
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11005/index.m3u8
+#EXTINF:-1  tvg-id="cineman-action"   tvg-rec="7",CineMan Action
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11006/index.m3u8
+#EXTINF:-1  tvg-id="cineman-thriller"   tvg-rec="7",CineMan Thriller
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11007/index.m3u8
+#EXTINF:-1   tvg-rec="7",CineMan Мелодрама
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11008/index.m3u8
+#EXTINF:-1  tvg-id="cineman-marvel"   tvg-rec="7",CineMan Marvel
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11009/index.m3u8
+#EXTINF:-1  tvg-id="cineman-uzhasy"   tvg-rec="7",CineMan Ужасы
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11010/index.m3u8
+#EXTINF:-1  tvg-id="cineman-comedy"   tvg-rec="7",CineMan Комедия
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11011/index.m3u8
+#EXTINF:-1  tvg-id="cineman-vhs"   tvg-rec="7",CineMan VHS
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11012/index.m3u8
+#EXTINF:-1  tvg-id="cineman-rukino"   tvg-rec="7",CineMan РуКино
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11013/index.m3u8
+#EXTINF:-1  tvg-id="cineman-svaty"   tvg-rec="7",CineMan Сваты
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11014/index.m3u8
+#EXTINF:-1  tvg-id="cineman-katastrofy"   tvg-rec="0",CineMan Катастрофы
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15106/index.m3u8
+#EXTINF:-1  tvg-id="cineman-musw"   tvg-rec="0",CineMan Ментовские войны
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16063/index.m3u8
+#EXTINF:-1  tvg-id="cineman-pes"   tvg-rec="0",CineMan ПёС
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16064/index.m3u8
+#EXTINF:-1  tvg-id="cineman-lesnik"   tvg-rec="0",CineMan Лесник
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16065/index.m3u8
+#EXTINF:-1  tvg-id="cineman-miniseries"   tvg-rec="0",CineMan MiniSeries
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19437/index.m3u8
+#EXTINF:-1   tvg-rec="7",The X-Files
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11055/index.m3u8
+#EXTINF:-1   tvg-rec="7",Кинозал! Интерны ТВ
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11060/index.m3u8
+#EXTINF:-1   tvg-rec="7",Кинозал! СССР
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11061/index.m3u8
+#EXTINF:-1   tvg-rec="7",Кинозал! Сваты
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11062/index.m3u8
+#EXTINF:-1   tvg-rec="7",Кинозал! Универ ТВ
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11063/index.m3u8
+#EXTINF:-1   tvg-rec="7",KBC-B.O.B
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11072/index.m3u8
+#EXTINF:-1  tvg-id="kbc-comics"   tvg-rec="7",KBC-Comics
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11073/index.m3u8
+#EXTINF:-1  tvg-id="kbc-elite-comedys"   tvg-rec="7",KBC-Elite comedys
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11074/index.m3u8
+#EXTINF:-1  tvg-id="kbc-family-animation"   tvg-rec="7",KBC-Family Animation
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11075/index.m3u8
+#EXTINF:-1  tvg-id="kbc-fantastic"   tvg-rec="7",KBC-Fantastic
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11076/index.m3u8
+#EXTINF:-1  tvg-id="kbc-history"   tvg-rec="7",KBC-History
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11077/index.m3u8
+#EXTINF:-1  tvg-id="kbc-light-serial-ru"   tvg-rec="7",KBC-Light сериал RU
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11078/index.m3u8
+#EXTINF:-1  tvg-id="kbc-newfilm"   tvg-rec="7",KBC-Newfilm
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11079/index.m3u8
+#EXTINF:-1  tvg-id="kbc-premium"   tvg-rec="7",KBC-Premium
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11080/index.m3u8
+#EXTINF:-1  tvg-id="kbc-russian-comedia"   tvg-rec="7",KBC-Russian Комедия
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11081/index.m3u8
+#EXTINF:-1  tvg-id="kbc-second-hit"   tvg-rec="7",KBC-Second HIT
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11082/index.m3u8
+#EXTINF:-1  tvg-id="kbc-ultra"   tvg-rec="7",KBC-Легендарное
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11083/index.m3u8
+#EXTINF:-1  tvg-id="kbc-vidak"   tvg-rec="7",KBC-Видак
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11084/index.m3u8
+#EXTINF:-1   tvg-rec="7",KBC-ГАЙ Ritchie & Tarantino
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11085/index.m3u8
+#EXTINF:-1   tvg-rec="7",KBC-Драма tic
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11086/index.m3u8
+#EXTINF:-1  tvg-id="kbc-kinoteatr"   tvg-rec="7",KBC-Кинотеатр
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11087/index.m3u8
+#EXTINF:-1  tvg-id="kbc-koshmar"   tvg-rec="7",KBC-Кошмарное
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11088/index.m3u8
+#EXTINF:-1  tvg-id="kbc-nash-rock"   tvg-rec="7",KBC-НАШ ROCK
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11089/index.m3u8
+#EXTINF:-1   tvg-rec="7",KBC-Союз МУЛЬТZAL
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11090/index.m3u8
+#EXTINF:-1  tvg-id="kbc-sssr"   tvg-rec="7",KBC-Страна СССР
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11091/index.m3u8
+#EXTINF:-1   tvg-rec="7",KBC-Криминальный Serial
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11092/index.m3u8
+#EXTINF:-1  tvg-id="kbc-spy"   tvg-rec="7",KBC-Шпионское
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11093/index.m3u8
+#EXTINF:-1  tvg-id="ussr-premieregroup"   tvg-rec="7",USSR
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11102/index.m3u8
+#EXTINF:-1  tvg-id="vhshd"   tvg-rec="0",VHS HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15000/index.m3u8
+#EXTINF:-1   tvg-rec="0",VB VHS Classic
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19429/index.m3u8
+#EXTINF:-1  tvg-id="vf-top-series"   tvg-rec="0",VF TOP Series
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11116/index.m3u8
+#EXTINF:-1  tvg-id="vf-vhs-cartoon"   tvg-rec="0",VF VHS Cartoon
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11118/index.m3u8
+#EXTINF:-1  tvg-id="vf-arthouse"   tvg-rec="0",VF Art house
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11119/index.m3u8
+#EXTINF:-1  tvg-id="vf-detective"   tvg-rec="0",VF Detective
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11120/index.m3u8
+#EXTINF:-1  tvg-id="vf-fantastic"   tvg-rec="0",VF Fantastic
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11121/index.m3u8
+#EXTINF:-1  tvg-id="vf-oskar"   tvg-rec="0",VF Оскар
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11122/index.m3u8
+#EXTINF:-1  tvg-id="vf-malysh"   tvg-rec="0",VF Малыш
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11123/index.m3u8
+#EXTINF:-1   tvg-rec="0",TOP Великолепный Век HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13001/index.m3u8
+#EXTINF:-1   tvg-rec="0",TOP 80 S HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13002/index.m3u8
+#EXTINF:-1   tvg-rec="0",TOP BUDO HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13003/index.m3u8
+#EXTINF:-1   tvg-rec="0",TOP Cinema HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13004/index.m3u8
+#EXTINF:-1   tvg-rec="0",TOP USSR HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13005/index.m3u8
+#EXTINF:-1   tvg-rec="0",TOP MIX HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13006/index.m3u8
+#EXTINF:-1  tvg-id="mm-007"   tvg-rec="0",MM 007 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13009/index.m3u8
+#EXTINF:-1  tvg-id="mm-love"   tvg-rec="0",MM Love HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13010/index.m3u8
+#EXTINF:-1  tvg-id="mm-newfilm1"   tvg-rec="0",MM NewFilm 1 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13011/index.m3u8
+#EXTINF:-1  tvg-id="mm-newfilm2"   tvg-rec="0",MM NewFilm 2 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13012/index.m3u8
+#EXTINF:-1  tvg-id="mm-newfilm3"   tvg-rec="0",MM NewFilm 3 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13013/index.m3u8
+#EXTINF:-1  tvg-id="mm-newfilm-ru"   tvg-rec="0",MM NewFilm RU HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13014/index.m3u8
+#EXTINF:-1   tvg-rec="0",MM Rock HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13015/index.m3u8
+#EXTINF:-1  tvg-id="mm-tomjerry"   tvg-rec="0",MM Tom and Jerry HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13016/index.m3u8
+#EXTINF:-1  tvg-id="mm-ufo"   tvg-rec="0",MM UFO HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13017/index.m3u8
+#EXTINF:-1  tvg-id="mm-ussr45"   tvg-rec="0",MM USSR 1941-1945 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13018/index.m3u8
+#EXTINF:-1  tvg-id="mm-ussrkomedia"   tvg-rec="0",MM USSR Комедия HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13019/index.m3u8
+#EXTINF:-1  tvg-id="mm-ussrmultfilm"   tvg-rec="0",MM USSR Мультфильм HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13020/index.m3u8
+#EXTINF:-1  tvg-id="mm-ussrskazki"   tvg-rec="0",MM USSR Сказки HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13021/index.m3u8
+#EXTINF:-1  tvg-id="mm-ussrfantastika"   tvg-rec="0",MM USSR Фантастика HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13022/index.m3u8
+#EXTINF:-1  tvg-id="minimax-world-hits"   tvg-rec="0",MM World Hits HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13023/index.m3u8
+#EXTINF:-1  tvg-id="mm-agatakristi"   tvg-rec="0",MM Агата Кристи HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13024/index.m3u8
+#EXTINF:-1  tvg-id="mm-graindhaus"   tvg-rec="0",MM Грайндхаус HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13025/index.m3u8
+#EXTINF:-1  tvg-id="mm-honey"   tvg-rec="0",MM Honey HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13026/index.m3u8
+#EXTINF:-1  tvg-id="mm-boevikclassic"   tvg-rec="0",MM Боевик Classic HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13027/index.m3u8
+#EXTINF:-1  tvg-id="mm-boevik"   tvg-rec="0",MM Боевик HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13028/index.m3u8
+#EXTINF:-1  tvg-id="mm-western"   tvg-rec="0",MM Вестерн HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13029/index.m3u8
+#EXTINF:-1  tvg-id="mm-voronin"   tvg-rec="0",MM Воронины HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13031/index.m3u8
+#EXTINF:-1  tvg-id="mm-zatmenie"   tvg-rec="0",MM Затмение HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13032/index.m3u8
+#EXTINF:-1  tvg-id="mm-istoria"   tvg-rec="0",MM История HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13033/index.m3u8
+#EXTINF:-1  tvg-id="mm-katastrofa"   tvg-rec="0",MM Катастрофа HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13034/index.m3u8
+#EXTINF:-1  tvg-id="mm-kvartirnik"   tvg-rec="0",MM Квартирник HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13035/index.m3u8
+#EXTINF:-1  tvg-id="mm-kiberpank"   tvg-rec="0",MM Киберпанк HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13036/index.m3u8
+#EXTINF:-1  tvg-id="mm-komediaclassic"   tvg-rec="0",MM Комедия Classic HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13037/index.m3u8
+#EXTINF:-1  tvg-id="mm-komedia"   tvg-rec="0",MM Комедия HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13038/index.m3u8
+#EXTINF:-1  tvg-id="mm-kriminal"   tvg-rec="0",MM Криминал HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13039/index.m3u8
+#EXTINF:-1  tvg-id="mm-krut90"   tvg-rec="0",MM Крутые 90-е HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13040/index.m3u8
+#EXTINF:-1  tvg-id="mm-kungfu"   tvg-rec="0",MM Кунг-Фу HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13041/index.m3u8
+#EXTINF:-1  tvg-id="mm-lesson"   tvg-rec="0",MM Lesson HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13042/index.m3u8
+#EXTINF:-1  tvg-id="mm-smile"   tvg-rec="0",MM Smile HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13043/index.m3u8
+#EXTINF:-1  tvg-id="mm-mifologia"   tvg-rec="0",MM Мифология HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13044/index.m3u8
+#EXTINF:-1  tvg-id="mm-nuar"   tvg-rec="0",MM Нуар HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13045/index.m3u8
+#EXTINF:-1  tvg-id="mm-sitkom20"   tvg-rec="0",MM Ситком 2.0 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13046/index.m3u8
+#EXTINF:-1  tvg-id="mm-pogruzhenie"   tvg-rec="0",MM Погружение HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13047/index.m3u8
+#EXTINF:-1  tvg-id="mm-prikluchenia"   tvg-rec="0",MM Приключения HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13048/index.m3u8
+#EXTINF:-1  tvg-id="mm-policejskisrubl"   tvg-rec="0",MM Полицейский с Рублёвки HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13049/index.m3u8
+#EXTINF:-1  tvg-id="mm-roskino"   tvg-rec="0",MM Роскино HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13050/index.m3u8
+#EXTINF:-1  tvg-id="mm-svaty"   tvg-rec="0",MM Сваты HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13051/index.m3u8
+#EXTINF:-1  tvg-id="mm-sitkom"   tvg-rec="0",MM Ситком HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13052/index.m3u8
+#EXTINF:-1  tvg-id="mm-skorost"   tvg-rec="0",MM Скорость HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13053/index.m3u8
+#EXTINF:-1  tvg-id="mm-sport"   tvg-rec="0",MM Спорт HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13054/index.m3u8
+#EXTINF:-1  tvg-id="mm-stivenking"   tvg-rec="0",MM Стивен Кинг HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13055/index.m3u8
+#EXTINF:-1  tvg-id="mm-supergeroi"   tvg-rec="0",MM Супергерои HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13056/index.m3u8
+#EXTINF:-1  tvg-id="mm-flip"   tvg-rec="0",MM Flip UHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13057/index.m3u8
+#EXTINF:-1  tvg-id="mm-triller"   tvg-rec="0",MM Триллер HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13058/index.m3u8
+#EXTINF:-1  tvg-id="mm-uzhastik"   tvg-rec="0",MM Ужастик HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13059/index.m3u8
+#EXTINF:-1  tvg-id="mm-ussrprikluchenia"   tvg-rec="0",MM USSR Приключения HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13060/index.m3u8
+#EXTINF:-1  tvg-id="mm-cinematograf"   tvg-rec="0",MM Синематограф HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13061/index.m3u8
+#EXTINF:-1  tvg-id="mm-fantastika"   tvg-rec="0",MM Фантастика HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13062/index.m3u8
+#EXTINF:-1  tvg-id="mm-fobia"   tvg-rec="0",MM Фобия HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13063/index.m3u8
+#EXTINF:-1  tvg-id="mm-waltdisney"   tvg-rec="0",MM Walt Disney HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13064/index.m3u8
+#EXTINF:-1  tvg-id="mm-liveplanet"   tvg-rec="0",MM Live Planet HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13095/index.m3u8
+#EXTINF:-1  tvg-id="mm-usssrdetektiv"   tvg-rec="0",MM USSR Детектив HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13096/index.m3u8
+#EXTINF:-1  tvg-id="mm-semejny1"   tvg-rec="0",MM Семейный 1 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13097/index.m3u8
+#EXTINF:-1  tvg-id="mm-semejny2"   tvg-rec="0",MM Семейный 2 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13098/index.m3u8
+#EXTINF:-1  tvg-id="mm-uzhasy"   tvg-rec="0",MM Ужасы HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13099/index.m3u8
+#EXTINF:-1  tvg-id="mm-uzhasyclassic"   tvg-rec="0",MM Ужасы Classic HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14128/index.m3u8
+#EXTINF:-1  tvg-id="mm-celebrity"   tvg-rec="0",MM Celebrity HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16084/index.m3u8
+#EXTINF:-1  tvg-id="mm-classic"   tvg-rec="0",MM Classic HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16085/index.m3u8
+#EXTINF:-1  tvg-id="mm-drama"   tvg-rec="0",MM Драма HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16086/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Фантастика HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13065/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Мультзал HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13066/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Klip New HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13067/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Ужасное ТВ HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13068/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Приключение HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13069/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Бойцовское кино HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13070/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Ералаш ТВ HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13071/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Малютка ТВ
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13072/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Kino2 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13073/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Kino1 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13074/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Kino3 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13075/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Kino4 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13076/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Боевики HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13077/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Tom and Jerry HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13078/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Витек ТВ HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13100/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Кинокомфорт HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13101/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Кино Новинки HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14126/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Комедия HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14127/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ TV HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14220/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Kino5 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14232/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Катастрофа HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18164/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Сваты HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18166/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Союзкино HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18167/index.m3u8
+#EXTINF:-1  tvg-id="vf-swty"   tvg-rec="0",VF Сваты
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13080/index.m3u8
+#EXTINF:-1  tvg-id="vf-soldats"   tvg-rec="0",VF Солдаты
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13081/index.m3u8
+#EXTINF:-1  tvg-id="vf-taynsled"   tvg-rec="0",VF Тайны следствия
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13082/index.m3u8
+#EXTINF:-1  tvg-id="vf-voronins"   tvg-rec="0",VF Воронины
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13083/index.m3u8
+#EXTINF:-1  tvg-id="vf-univer"   tvg-rec="0",VF Универ
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13084/index.m3u8
+#EXTINF:-1  tvg-id="vf-series"   tvg-rec="0",VF Series
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13085/index.m3u8
+#EXTINF:-1  tvg-id="vf-sled"   tvg-rec="0",VF След
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13086/index.m3u8
+#EXTINF:-1  tvg-id="vf-serial"   tvg-rec="0",VF Сериал
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13087/index.m3u8
+#EXTINF:-1  tvg-id="vf-mylnoper"   tvg-rec="0",VF Мыльные оперы
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13088/index.m3u8
+#EXTINF:-1  tvg-id="vf-thrilr"   tvg-rec="0",VF Thriller
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13089/index.m3u8
+#EXTINF:-1  tvg-id="vf-indiya"   tvg-rec="0",VF Индия
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13090/index.m3u8
+#EXTINF:-1  tvg-id="vf-istorya"   tvg-rec="0",VF История
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13091/index.m3u8
+#EXTINF:-1  tvg-id="vf-comics"   tvg-rec="0",VF Comics
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13092/index.m3u8
+#EXTINF:-1  tvg-id="vf-kriminal"   tvg-rec="0",VF Криминал
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13093/index.m3u8
+#EXTINF:-1  tvg-id="vf-klinika"   tvg-rec="0",VF Клиника
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13094/index.m3u8
+#EXTINF:-1  tvg-id="vf-luidefunes"   tvg-rec="0",VF Луи де Фюнес
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17000/index.m3u8
+#EXTINF:-1  tvg-id="vf-chernobyl"   tvg-rec="0",VF Чернобыль
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17001/index.m3u8
+#EXTINF:-1  tvg-id="vf-xfiles"   tvg-rec="0",VF The X-Files
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17002/index.m3u8
+#EXTINF:-1  tvg-id="vf-supernatural"   tvg-rec="0",VF Сверхъестественное
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17003/index.m3u8
+#EXTINF:-1  tvg-id="vf-gaidai"   tvg-rec="0",VF Леонид Гайдай
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17004/index.m3u8
+#EXTINF:-1  tvg-id="vf-ahs"   tvg-rec="0",VF Американская история ужасов
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17005/index.m3u8
+#EXTINF:-1  tvg-id="vf-friends"   tvg-rec="0",VF Друзья
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17006/index.m3u8
+#EXTINF:-1  tvg-id="vf-sashatania"   tvg-rec="0",VF СашаТаня
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17008/index.m3u8
+#EXTINF:-1  tvg-id="vf-dzhekichan"   tvg-rec="0",VF Джеки Чан
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17009/index.m3u8
+#EXTINF:-1  tvg-id="vf-nasharasha"   tvg-rec="0",VF Наша Раша
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17010/index.m3u8
+#EXTINF:-1  tvg-id="vf-90e"   tvg-rec="0",VF Привет из 90х
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17011/index.m3u8
+#EXTINF:-1  tvg-id="vf-ryazanov"   tvg-rec="0",VF Эльдар Рязанов
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17012/index.m3u8
+#EXTINF:-1  tvg-id="vf-univernew"   tvg-rec="0",VF Универ новая общага
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17013/index.m3u8
+#EXTINF:-1  tvg-id="vf-walkingdead"   tvg-rec="0",VF Ходячие мертвецы
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17014/index.m3u8
+#EXTINF:-1  tvg-id="vf-realnyepacany"   tvg-rec="0",VF Реальные пацаны
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17015/index.m3u8
+#EXTINF:-1  tvg-id="vf-housemd"   tvg-rec="0",VF Доктор Хаус
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17016/index.m3u8
+#EXTINF:-1  tvg-id="vf-bezcenzury"   tvg-rec="0",VF Без цензуры
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17017/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Городок
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18097/index.m3u8
+#EXTINF:-1  tvg-id="vf-igraprestolov"   tvg-rec="0",VF Игра престолов
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18119/index.m3u8
+#EXTINF:-1  tvg-id="vf-odesskayakinostudia"   tvg-rec="0",VF Одесская киностудия
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18120/index.m3u8
+#EXTINF:-1  tvg-id="vf-lenfilm"   tvg-rec="0",VF Ленфильм
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18121/index.m3u8
+#EXTINF:-1  tvg-id="vf-kinostudiagorkogo"   tvg-rec="0",VF Киностудия им. Горького
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18122/index.m3u8
+#EXTINF:-1  tvg-id="vf-rigakinostudia"   tvg-rec="0",VF Рижская киностудия
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18123/index.m3u8
+#EXTINF:-1  tvg-id="vf-sverdlovskkinostudia"   tvg-rec="0",VF Свердловская киностудия
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18124/index.m3u8
+#EXTINF:-1  tvg-id="vf-belarusfilm"   tvg-rec="0",VF Беларусьфильм
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18125/index.m3u8
+#EXTINF:-1  tvg-id="vf-netflx"   tvg-rec="0",VF Netflix
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19427/index.m3u8
+#EXTINF:-1  tvg-id="vf-hbo"   tvg-rec="0",VF HBO
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19428/index.m3u8
+#EXTINF:-1   tvg-rec="0",Z! Channel HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14134/index.m3u8
+#EXTINF:-1   tvg-rec="0",Z! Comedy HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14135/index.m3u8
+#EXTINF:-1   tvg-rec="0",Z! Crime HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14136/index.m3u8
+#EXTINF:-1   tvg-rec="0",Z! Horror HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14137/index.m3u8
+#EXTINF:-1   tvg-rec="0",Millennium TV HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14160/index.m3u8
+#EXTINF:-1   tvg-rec="0",Akudji TV HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14161/index.m3u8
+#EXTINF:-1  tvg-id="yosso-grand"   tvg-rec="0",Yosso TV Grand
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14171/index.m3u8
+#EXTINF:-1  tvg-id="yosso-vhs"   tvg-rec="0",Yosso TV VHS
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14172/index.m3u8
+#EXTINF:-1  tvg-id="yosso-rusfilm"   tvg-rec="0",Yosso TV Русские Фильмы
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14174/index.m3u8
+#EXTINF:-1  tvg-id="yosso-sovfilm"   tvg-rec="0",Yosso TV Советские Фильмы
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14175/index.m3u8
+#EXTINF:-1  tvg-id="yosso-newkino"   tvg-rec="0",Yosso TV New Кино
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14177/index.m3u8
+#EXTINF:-1  tvg-id="yosso-musichits"   tvg-rec="0",Yosso TV Music Hits
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14179/index.m3u8
+#EXTINF:-1  tvg-id="yosso-tragic"   tvg-rec="0",Yosso TV Трагичное
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14219/index.m3u8
+#EXTINF:-1  tvg-id="yosso-zabavno"   tvg-rec="0",Yosso TV Забавное
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14234/index.m3u8
+#EXTINF:-1  tvg-id="yosso-cowboy"   tvg-rec="0",Yosso TV Ковбойское
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14235/index.m3u8
+#EXTINF:-1  tvg-id="yosso-best"   tvg-rec="0",Yosso TV Best
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14236/index.m3u8
+#EXTINF:-1  tvg-id="yosso-adrenalin"   tvg-rec="0",Yosso TV Adrenaline
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15105/index.m3u8
+#EXTINF:-1  tvg-id="yosso-thriller"   tvg-rec="0",Yosso TV Thriller
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15168/index.m3u8
+#EXTINF:-1  tvg-id="yosso-oblivion"   tvg-rec="0",Yosso TV Oblivion
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15509/index.m3u8
+#EXTINF:-1  tvg-id="yosso-adventure"   tvg-rec="0",Yosso TV Adventure
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15510/index.m3u8
+#EXTINF:-1  tvg-id="yosso-4k"   tvg-rec="0",Yosso TV 4K
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16153/index.m3u8
+#EXTINF:-1  tvg-id="yosso-melodrama"   tvg-rec="0",Yosso TV Мелодрама
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19434/index.m3u8
+#EXTINF:-1  tvg-id="yosso-netflix"   tvg-rec="0",Yosso TV Netflix
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20163/index.m3u8
+#EXTINF:-1  tvg-id="yosso-disney"   tvg-rec="0",Yosso TV Disney
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20164/index.m3u8
+#EXTINF:-1   tvg-rec="0",Yosso TV Best 60 FPS
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20165/index.m3u8
+#EXTINF:-1   tvg-rec="0",Citrus Comedy
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16151/index.m3u8
+#EXTINF:-1   tvg-rec="0",Citrus Inquest
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16152/index.m3u8
+#EXTINF:-1   tvg-rec="0",Citrus History
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18139/index.m3u8
+#EXTINF:-1   tvg-rec="0",Dosug TV Comedy HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14209/index.m3u8
+#EXTINF:-1   tvg-rec="0",Dosug TV Fantastic HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14210/index.m3u8
+#EXTINF:-1   tvg-rec="0",Dosug TV History HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14211/index.m3u8
+#EXTINF:-1   tvg-rec="0",Dosug Hit HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14212/index.m3u8
+#EXTINF:-1   tvg-rec="0",Dosug TV Horror HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14213/index.m3u8
+#EXTINF:-1   tvg-rec="0",Dosug TV Kids HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14214/index.m3u8
+#EXTINF:-1   tvg-rec="0",Dosug TV Marvel HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14215/index.m3u8
+#EXTINF:-1   tvg-rec="0",Dosug TV New HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14216/index.m3u8
+#EXTINF:-1   tvg-rec="0",Dosug TV Russian HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14217/index.m3u8
+#EXTINF:-1   tvg-rec="0",Dosug TV СССР HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14218/index.m3u8
+#EXTINF:-1   tvg-rec="0",Dosug TV VHS
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14225/index.m3u8
+#EXTINF:-1   tvg-rec="0",Dosug TV Ходячие мертвецы
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14226/index.m3u8
+#EXTINF:-1   tvg-rec="0",Dosug TV Сериал
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14227/index.m3u8
+#EXTINF:-1   tvg-rec="0",Dosug TV Сваты
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14228/index.m3u8
+#EXTINF:-1   tvg-rec="0",Твое ТВ HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14229/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-series"   tvg-rec="0",SKY HIGH SERIES HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14240/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-heroes"   tvg-rec="0",SKY HIGH HEROES HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14242/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-epoch"   tvg-rec="0",SKY HIGH EPOCH HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14243/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-fresh"   tvg-rec="0",SKY HIGH FRESH HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14244/index.m3u8
+#EXTINF:-1   tvg-rec="0",SKY HIGH MIX 3D
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14246/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-spirit"   tvg-rec="0",SKY HIGH SPIRIT HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14249/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-future"   tvg-rec="0",SKY HIGH FUTURE HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15103/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-adult"   tvg-rec="0",SKY HIGH ADULT HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15166/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-russian"   tvg-rec="0",SKY HIGH RUSSIAN HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16060/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-fresh60"   tvg-rec="0",SKY HIGH FRESH 60
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16061/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-fresh-hdr"   tvg-rec="0",SKY HIGH FRESH HDR
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16066/index.m3u8
+#EXTINF:-1   tvg-rec="0",SKY HIGH ЧБУ HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16142/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-vhsuhd"   tvg-rec="0",SKY HIGH VHS UHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17058/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-uhdhdr"   tvg-rec="0",SKY HIGH UHD HDR
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17059/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-orig"   tvg-rec="0",SKY HIGH ORIG HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19310/index.m3u8
+#EXTINF:-1   tvg-rec="0",SKY HIGH LO FI HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19312/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-brain"   tvg-rec="0",SKY HIGH BRAIN HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19404/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-anime"   tvg-rec="0",SKY HIGH ANIME HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19405/index.m3u8
+#EXTINF:-1   tvg-rec="0",BCU Media HD OLD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15024/index.m3u8
+#EXTINF:-1   tvg-rec="0",BCU Marvel OLD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15025/index.m3u8
+#EXTINF:-1   tvg-rec="0",BCU Comedy OLD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15026/index.m3u8
+#EXTINF:-1   tvg-rec="0",BCU Reality OLD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16083/index.m3u8
+#EXTINF:-1   tvg-rec="0",BCU Survival OLD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17020/index.m3u8
+#EXTINF:-1   tvg-rec="0",BCU Cosmo OLD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17022/index.m3u8
+#EXTINF:-1   tvg-rec="0",BCU Romantic OLD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18052/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty DC FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15087/index.m3u8
+#EXTINF:-1  tvg-id="liberty-uzhasy"   tvg-rec="0",Liberty Ужасы 4K
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15088/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Триллер 4K
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15089/index.m3u8
+#EXTINF:-1  tvg-id="liberty-marvel"   tvg-rec="0",Liberty Marvel 4K
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15090/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Короткометражное FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15091/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Мелодрамы FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15095/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Боевики FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15096/index.m3u8
+#EXTINF:-1  tvg-id="liberty-kinomiks"   tvg-rec="0",Liberty Кино Микс 4K
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15110/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Симпсоны FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15111/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Сваты FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15164/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty SouthPark FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16053/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Комедии FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16054/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Сериалы FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16055/index.m3u8
+#EXTINF:-1  tvg-id="liberty-kinoeng"   tvg-rec="0",Liberty Кино ENG 4K
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17060/index.m3u8
+#EXTINF:-1  tvg-id="liberty-multeng"   tvg-rec="0",Liberty Мульт ENG 4K
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17061/index.m3u8
+#EXTINF:-1  tvg-id="liberty-multukr4k"   tvg-rec="0",Liberty Мульт UKR 4K
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18044/index.m3u8
+#EXTINF:-1  tvg-id="liberty-kinoukr4k"   tvg-rec="0",Liberty Кино UKR 4K
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18045/index.m3u8
+#EXTINF:-1  tvg-id="liberty-rusfilm"   tvg-rec="0",Liberty РусФильм 4K
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18046/index.m3u8
+#EXTINF:-1  tvg-id="liberty-mult"   tvg-rec="0",Liberty Мульт 4K
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18051/index.m3u8
+#EXTINF:-1  tvg-id="liberty-semejny"   tvg-rec="0",Liberty Семейный 4K
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18178/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Турк Фильм 4K
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19303/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Сказки FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19304/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty МиМ FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19306/index.m3u8
+#EXTINF:-1  tvg-id="liberty-soyuz"   tvg-rec="0",Liberty Союз 4K
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19307/index.m3u8
+#EXTINF:-1  tvg-id="liberty-legenda"   tvg-rec="0",Liberty Легенда 4K
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19308/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Кинозал HEVC HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15099/index.m3u8
+#EXTINF:-1  tvg-id="cineman-skorpom"   tvg-rec="0",CineMan Скорая Помощь
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15100/index.m3u8
+#EXTINF:-1  tvg-id="cineman-simps"   tvg-rec="0",CineMan Симпсоны
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15101/index.m3u8
+#EXTINF:-1  tvg-id="ms-prisons"   tvg-rec="0",MS Prisons HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15137/index.m3u8
+#EXTINF:-1  tvg-id="ms-toons"   tvg-rec="0",MS Toons HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15138/index.m3u8
+#EXTINF:-1  tvg-id="ms-magic"   tvg-rec="0",MS Magic HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16143/index.m3u8
+#EXTINF:-1  tvg-id="ms-youngblood"   tvg-rec="0",MS Young Blood HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16147/index.m3u8
+#EXTINF:-1  tvg-id="ms-animated"   tvg-rec="0",MS Animated HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17024/index.m3u8
+#EXTINF:-1   tvg-rec="0",Премьера Трейлеры
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16009/index.m3u8
+#EXTINF:-1   tvg-rec="0",PZN HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16037/index.m3u8
+#EXTINF:-1   tvg-rec="0",Видеокассета VHS
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16049/index.m3u8
+#EXTINF:-1   tvg-rec="0",Citrus Cartoon
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16050/index.m3u8
+#EXTINF:-1   tvg-rec="0",Citrus Marvel
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16051/index.m3u8
+#EXTINF:-1  tvg-id="fresh-cinema"   tvg-rec="0",Fresh Cinema
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19287/index.m3u8
+#EXTINF:-1  tvg-id="fresh-kids"   tvg-rec="0",Fresh Kids
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19288/index.m3u8
+#EXTINF:-1  tvg-id="fresh-comedy"   tvg-rec="0",Fresh Comedy
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19289/index.m3u8
+#EXTINF:-1  tvg-id="fresh-premiere"   tvg-rec="0",Fresh Premiere
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19290/index.m3u8
+#EXTINF:-1  tvg-id="fresh-family"   tvg-rec="0",Fresh Family
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19291/index.m3u8
+#EXTINF:-1  tvg-id="fresh-rating"   tvg-rec="0",Fresh Rating
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19292/index.m3u8
+#EXTINF:-1  tvg-id="fresh-vhs"   tvg-rec="0",Fresh VHS
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19293/index.m3u8
+#EXTINF:-1  tvg-id="fresh-fantastic"   tvg-rec="0",Fresh Fantastic
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19294/index.m3u8
+#EXTINF:-1  tvg-id="fresh-series"   tvg-rec="0",Fresh Series
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19295/index.m3u8
+#EXTINF:-1  tvg-id="fresh-horror"   tvg-rec="0",Fresh Horror
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19296/index.m3u8
+#EXTINF:-1  tvg-id="fresh-adventure"   tvg-rec="0",Fresh Adventure
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19297/index.m3u8
+#EXTINF:-1  tvg-id="fresh-romatic"   tvg-rec="0",Fresh Romantic
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19298/index.m3u8
+#EXTINF:-1  tvg-id="fresh-russian"   tvg-rec="0",Fresh Russian
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19299/index.m3u8
+#EXTINF:-1  tvg-id="fresh-thriller"   tvg-rec="0",Fresh Thriller
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19300/index.m3u8
+#EXTINF:-1  tvg-id="fresh-soviet"   tvg-rec="0",Fresh Soviet
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19301/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Cinema HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16078/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Comedy HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16080/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI History HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18047/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Premium HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18048/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Russian HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18049/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Fantastic HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18050/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI VHS HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18173/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Thriller HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18174/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI СССР HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18175/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Family HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18176/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Retro HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18177/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Club FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19319/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Киносерия FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19400/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Action FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20051/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Humor HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20052/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Drama FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20053/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Fantasy FHD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20054/index.m3u8
+#EXTINF:-1   tvg-rec="0",Cine + Classic FR
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17039/index.m3u8
+#EXTINF:-1   tvg-rec="0",Eye Media HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17064/index.m3u8
+#EXTINF:-1   tvg-rec="0",Eye Oscar HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17065/index.m3u8
+#EXTINF:-1   tvg-rec="0",Eye Frozen HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17066/index.m3u8
+#EXTINF:-1   tvg-rec="0",Eye Criminal HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17067/index.m3u8
+#EXTINF:-1   tvg-rec="0",Eye Modern HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17068/index.m3u8
+#EXTINF:-1  tvg-id="start-world"   tvg-rec="0",START World
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18032/index.m3u8
+#EXTINF:-1   tvg-rec="0",START Air HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18036/index.m3u8
+#EXTINF:-1   tvg-rec="0",VB Российские Сериалы
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18043/index.m3u8
+#EXTINF:-1   tvg-rec="0",Kinoshka Thriller HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18055/index.m3u8
+#EXTINF:-1   tvg-rec="0",Kinoshka Kids HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18056/index.m3u8
+#EXTINF:-1   tvg-rec="0",Kinoshka Comedy HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18057/index.m3u8
+#EXTINF:-1   tvg-rec="0",Kinoshka Russian HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18058/index.m3u8
+#EXTINF:-1   tvg-rec="0",Kinoshka Mystic HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18059/index.m3u8
+#EXTINF:-1   tvg-rec="0",Kinoshka Premiere HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18117/index.m3u8
+#EXTINF:-1   tvg-rec="0",Kinoshka Action HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18118/index.m3u8
+#EXTINF:-1   tvg-rec="0",Kinoshka Drama HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18150/index.m3u8
+#EXTINF:-1   tvg-rec="0",Magic Karate HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18061/index.m3u8
+#EXTINF:-1   tvg-rec="0",Magic VHS HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18062/index.m3u8
+#EXTINF:-1   tvg-rec="0",Magic Comedy HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18063/index.m3u8
+#EXTINF:-1   tvg-rec="0",Magic Disney HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18064/index.m3u8
+#EXTINF:-1   tvg-rec="0",Magic Thriller HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18065/index.m3u8
+#EXTINF:-1   tvg-rec="0",Magic Action HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18066/index.m3u8
+#EXTINF:-1   tvg-rec="0",Magic Galaxy HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18067/index.m3u8
+#EXTINF:-1   tvg-rec="0",Magic Horror HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18068/index.m3u8
+#EXTINF:-1   tvg-rec="0",Magic Family HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18170/index.m3u8
+#EXTINF:-1   tvg-rec="0",Magic Love HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18171/index.m3u8
+#EXTINF:-1   tvg-rec="0",Кино 1 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18069/index.m3u8
+#EXTINF:-1   tvg-rec="0",Кино 2 HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18070/index.m3u8
+#EXTINF:-1  tvg-id="kino1int-tviksel"   tvg-rec="0",Кино 1 International
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18071/index.m3u8
+#EXTINF:-1   tvg-rec="0",Военное кино HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18072/index.m3u8
+#EXTINF:-1  tvg-id="detskoe-kino"   tvg-rec="0",Детское кино HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18073/index.m3u8
+#EXTINF:-1  tvg-id="detkinoint-tviksel"   tvg-rec="0",Детское кино International
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18074/index.m3u8
+#EXTINF:-1   tvg-rec="3",Зал 1
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2568/index.m3u8
+#EXTINF:-1   tvg-rec="3",Зал 2
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2569/index.m3u8
+#EXTINF:-1   tvg-rec="3",Зал 3
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2570/index.m3u8
+#EXTINF:-1   tvg-rec="3",Зал 4
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2571/index.m3u8
+#EXTINF:-1   tvg-rec="3",Зал 5
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2572/index.m3u8
+#EXTINF:-1   tvg-rec="3",Зал 6
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2573/index.m3u8
+#EXTINF:-1   tvg-rec="3",Зал 7
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2574/index.m3u8
+#EXTINF:-1   tvg-rec="3",Зал 8
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2575/index.m3u8
+#EXTINF:-1   tvg-rec="3",Зал 9
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2576/index.m3u8
+#EXTINF:-1   tvg-rec="3",Зал 10
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2577/index.m3u8
+#EXTINF:-1   tvg-rec="3",Зал 11
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2578/index.m3u8
+#EXTINF:-1   tvg-rec="3",Зал 12
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2579/index.m3u8
+#EXTINF:-1   tvg-rec="0",Кинозал 1
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18126/index.m3u8
+#EXTINF:-1   tvg-rec="0",Кинозал 2
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18127/index.m3u8
+#EXTINF:-1   tvg-rec="0",Кинозал 3
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18128/index.m3u8
+#EXTINF:-1   tvg-rec="0",Кинозал 4
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18129/index.m3u8
+#EXTINF:-1   tvg-rec="0",Кинозал 5
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18130/index.m3u8
+#EXTINF:-1   tvg-rec="0",Кинозал 6
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18131/index.m3u8
+#EXTINF:-1   tvg-rec="0",Кинозал 7
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18132/index.m3u8
+#EXTINF:-1   tvg-rec="0",Кинозал 8
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18133/index.m3u8
+#EXTINF:-1   tvg-rec="0",Кинозал 9
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18134/index.m3u8
+#EXTINF:-1   tvg-rec="0",Кинозал 10
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18135/index.m3u8
+#EXTINF:-1   tvg-rec="0",Кинозал 11
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18136/index.m3u8
+#EXTINF:-1   tvg-rec="0",Кинозал 12
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18137/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV Criminal
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18140/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV Kids
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18141/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV History
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18142/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV Comedy
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18143/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV Fantazy
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18144/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV Horror
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18145/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV Cinema Best
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18147/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV Music
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18148/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV Rock
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19270/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV Serial
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19271/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV Netflix
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19272/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV Cinema 60 fps
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19315/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV Вторая Мировая
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19316/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV Сказки СССР
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19317/index.m3u8
+#EXTINF:-1   tvg-rec="0",Amedia Hit
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19218/index.m3u8
+#EXTINF:-1   tvg-rec="0",Киносерия HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19229/index.m3u8
+#EXTINF:-1   tvg-rec="0",Наше Новое Кино HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19231/index.m3u8
+#EXTINF:-1   tvg-rec="0",Cinéma HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19233/index.m3u8
+#EXTINF:-1   tvg-rec="0",BOX Franchise HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19274/index.m3u8
+#EXTINF:-1   tvg-rec="0",BOX Hybrid HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19275/index.m3u8
+#EXTINF:-1   tvg-rec="0",BOX Anime HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19276/index.m3u8
+#EXTINF:-1   tvg-rec="0",BOX Gangster HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19277/index.m3u8
+#EXTINF:-1   tvg-rec="0",BOX Oscar HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19278/index.m3u8
+#EXTINF:-1   tvg-rec="0",BOX Memory HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19279/index.m3u8
+#EXTINF:-1   tvg-rec="0",BOX M.Serial HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19280/index.m3u8
+#EXTINF:-1   tvg-rec="0",BOX Serial HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19281/index.m3u8
+#EXTINF:-1   tvg-rec="0",BOX Game HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19284/index.m3u8
+#EXTINF:-1   tvg-rec="0",BOX Spy HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19285/index.m3u8
+#EXTINF:-1   tvg-rec="0",BOX Travel HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19418/index.m3u8
+#EXTINF:-1   tvg-rec="0",BOX Western HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19419/index.m3u8
+#EXTINF:-1   tvg-rec="0",BOX Zombie HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19420/index.m3u8
+#EXTINF:-1   tvg-rec="0",BOX Cyber HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19421/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV Simpsons UA
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19395/index.m3u8
+#EXTINF:-1   tvg-rec="0",Insomnia HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19398/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV UA
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19399/index.m3u8
+#EXTINF:-1   tvg-rec="0",MYTV
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19407/index.m3u8
+#EXTINF:-1   tvg-rec="0",MYTV 2
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19408/index.m3u8
+#EXTINF:-1   tvg-rec="0",MYTV HIT
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19410/index.m3u8
+#EXTINF:-1   tvg-rec="0",MYTV 3
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19411/index.m3u8
+#EXTINF:-1   tvg-rec="0",MM OldSchool HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19413/index.m3u8
+#EXTINF:-1   tvg-rec="0",MM Family Guy HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19414/index.m3u8
+#EXTINF:-1   tvg-rec="0",Citrus Live HD
+#EXTGRP:кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19436/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Modern Talking
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14004/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Britney Spears
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14005/index.m3u8
+#EXTINF:-1  tvg-id="classic-music"   tvg-rec="0",Classic Music
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14008/index.m3u8
+#EXTINF:-1   tvg-rec="0",Radio Metal TV
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14010/index.m3u8
+#EXTINF:-1  tvg-id="song-tv-ru"   tvg-rec="3",SONG TV RUSSIA 
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6394/index.m3u8
+#EXTINF:-1  tvg-id="europa-plus-tv"   tvg-rec="7",Europa Plus TV
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/115/index.m3u8
+#EXTINF:-1   tvg-rec="0",Муз ТВ +4
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6036/index.m3u8
+#EXTINF:-1  tvg-id="muztv"   tvg-rec="7",МУЗ-ТВ
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/116/index.m3u8
+#EXTINF:-1   tvg-rec="3",Bridge Русский Хит
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/120/index.m3u8
+#EXTINF:-1  tvg-id="bridge-tv"   tvg-rec="7",Bridge TV
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/122/index.m3u8
+#EXTINF:-1   tvg-rec="7",Bridge Hits
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/711/index.m3u8
+#EXTINF:-1  tvg-id="bridge-tv-shlager"   tvg-rec="0",Bridge Шлягер
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10038/index.m3u8
+#EXTINF:-1  tvg-id="bridge-tv-rock"   tvg-rec="0",Bridge Rock
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17043/index.m3u8
+#EXTINF:-1   tvg-rec="7",MTV
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/142/index.m3u8
+#EXTINF:-1  tvg-id="mtv-hits"   tvg-rec="7",MTV Hits
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/153/index.m3u8
+#EXTINF:-1  tvg-id="muzyka-pervogo"   tvg-rec="7",Музыка Первого
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/155/index.m3u8
+#EXTINF:-1  tvg-id="mezzo-live-hd"   tvg-rec="7",Mezzo Live HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/208/index.m3u8
+#EXTINF:-1  tvg-id="mtv-dance"   tvg-rec="7",Club MTV
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/558/index.m3u8
+#EXTINF:-1  tvg-id="mezzo"   tvg-rec="7",Mezzo
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/707/index.m3u8
+#EXTINF:-1  tvg-id="tnt-music"   tvg-rec="7",ТНТ Music
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/710/index.m3u8
+#EXTINF:-1  tvg-id="vh1-classic"   tvg-rec="7",MTV 80s
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/724/index.m3u8
+#EXTINF:-1   tvg-rec="3",Vostok TV
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1054/index.m3u8
+#EXTINF:-1  tvg-id="mtv-rocks"   tvg-rec="3",MTV 90s
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1038/index.m3u8
+#EXTINF:-1   tvg-rec="7",MCM Top Russia
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/836/index.m3u8
+#EXTINF:-1   tvg-rec="7",RU TV
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/838/index.m3u8
+#EXTINF:-1  tvg-id="shanson-tv"   tvg-rec="7",Шансон ТВ
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/859/index.m3u8
+#EXTINF:-1   tvg-rec="7",Ля-минор ТВ
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2043/index.m3u8
+#EXTINF:-1   tvg-rec="7",Music Box Russia
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2048/index.m3u8
+#EXTINF:-1   tvg-rec="3",Курай TV
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2061/index.m3u8
+#EXTINF:-1  tvg-id="o2tv"   tvg-rec="3",о2тв
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2068/index.m3u8
+#EXTINF:-1  tvg-id="muzsoyuz"   tvg-rec="3",МузСоюз
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2137/index.m3u8
+#EXTINF:-1  tvg-id="zhar-ptica"   tvg-rec="3",Жар Птица
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2142/index.m3u8
+#EXTINF:-1   tvg-rec="3",AIVA TV
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2156/index.m3u8
+#EXTINF:-1   tvg-rec="0",NRG 91
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7223/index.m3u8
+#EXTINF:-1   tvg-rec="0",Ritsa TV
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7224/index.m3u8
+#EXTINF:-1   tvg-rec="0",MTV POLSKA PL
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7294/index.m3u8
+#EXTINF:-1   tvg-rec="7",Retro Dance 90s
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10064/index.m3u8
+#EXTINF:-1   tvg-rec="7",VF Легенды Ретро ФМ
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10067/index.m3u8
+#EXTINF:-1   tvg-rec="7",4 Fun TV
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10069/index.m3u8
+#EXTINF:-1   tvg-rec="7",Deejay TV
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10070/index.m3u8
+#EXTINF:-1   tvg-rec="0",MTV SE
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/12055/index.m3u8
+#EXTINF:-1   tvg-rec="0",Z! Musiс HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14138/index.m3u8
+#EXTINF:-1   tvg-rec="0",Z! Rock HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14139/index.m3u8
+#EXTINF:-1  tvg-id="onemuz"   tvg-rec="0",Первый музыкальный
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14143/index.m3u8
+#EXTINF:-1   tvg-rec="0",Первый музыкальный BY
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14145/index.m3u8
+#EXTINF:-1   tvg-rec="0",FreshTV HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14146/index.m3u8
+#EXTINF:-1   tvg-rec="0",Eurodance 90
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14148/index.m3u8
+#EXTINF:-1   tvg-rec="0",Music Box Gold
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14149/index.m3u8
+#EXTINF:-1   tvg-rec="0",Страна FM HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14152/index.m3u8
+#EXTINF:-1   tvg-rec="0",VB Dance Hits of 90s
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14154/index.m3u8
+#EXTINF:-1   tvg-rec="0",VB Русская Попса 80х-90х
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14155/index.m3u8
+#EXTINF:-1   tvg-rec="0",VB Russian Dance Hits of 90s
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14156/index.m3u8
+#EXTINF:-1   tvg-rec="0",Новое радио FHD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14162/index.m3u8
+#EXTINF:-1   tvg-rec="0",RU TV FHD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14164/index.m3u8
+#EXTINF:-1   tvg-rec="0",HITV FHD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14165/index.m3u8
+#EXTINF:-1   tvg-rec="0",ТНТ Music FHD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14166/index.m3u8
+#EXTINF:-1   tvg-rec="0",RETRO TV
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14169/index.m3u8
+#EXTINF:-1   tvg-rec="0",Илья ТВ Алла Пугачёва HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14237/index.m3u8
+#EXTINF:-1   tvg-rec="0",Илья ТВ Наш Сериал
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16154/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-concert"   tvg-rec="0",SKY HIGH CONCERT HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14241/index.m3u8
+#EXTINF:-1   tvg-rec="0",SKY HIGH DANCE UHD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14250/index.m3u8
+#EXTINF:-1  tvg-id="skyhidh-classic"   tvg-rec="0",SKY HIGH CLASSIC HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15104/index.m3u8
+#EXTINF:-1   tvg-rec="0",Stingray Hot Country HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15001/index.m3u8
+#EXTINF:-1   tvg-rec="0",Stingray Pop Adult HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15002/index.m3u8
+#EXTINF:-1   tvg-rec="0",Stingray Hit List HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15003/index.m3u8
+#EXTINF:-1   tvg-rec="0",Stingray Qello TV HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15004/index.m3u8
+#EXTINF:-1   tvg-rec="0",Stingray Hip Hop/R&B HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15005/index.m3u8
+#EXTINF:-1   tvg-rec="0",Stingray Soul Storm STORM HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15006/index.m3u8
+#EXTINF:-1   tvg-rec="0",Stingray Greatest Hits HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15007/index.m3u8
+#EXTINF:-1   tvg-rec="0",Stingray Exitos Del Momento HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15008/index.m3u8
+#EXTINF:-1   tvg-rec="0",Stingray Karaoke HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15011/index.m3u8
+#EXTINF:-1   tvg-rec="0",Stingray Classic Rock HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15012/index.m3u8
+#EXTINF:-1   tvg-rec="0",Stingray Flashback 70S HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15013/index.m3u8
+#EXTINF:-1   tvg-rec="0",Stingray Alternative HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15014/index.m3u8
+#EXTINF:-1   tvg-rec="0",Stingray Remember The 80S HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15015/index.m3u8
+#EXTINF:-1   tvg-rec="0",M1 HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15016/index.m3u8
+#EXTINF:-1   tvg-rec="0",M2 HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15017/index.m3u8
+#EXTINF:-1   tvg-rec="0",MTV Biggest Pop HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15018/index.m3u8
+#EXTINF:-1   tvg-rec="0",MTV Block Party HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15019/index.m3u8
+#EXTINF:-1   tvg-rec="0",V2BEAT HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15020/index.m3u8
+#EXTINF:-1   tvg-rec="0",Zerouno TV
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15021/index.m3u8
+#EXTINF:-1   tvg-rec="0",MM Relax HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13030/index.m3u8
+#EXTINF:-1  tvg-id="trace-urban"   tvg-rec="0",Trace Urban HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15107/index.m3u8
+#EXTINF:-1  tvg-id="c4k360"   tvg-rec="0",C4K360
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15233/index.m3u8
+#EXTINF:-1   tvg-rec="0",Муз ТВ +3 (Омск)
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15441/index.m3u8
+#EXTINF:-1   tvg-rec="0",Муз ТВ +0 (Элиста)
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15461/index.m3u8
+#EXTINF:-1  tvg-id="vf-musyka"   tvg-rec="0",VF Музыка
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15512/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Music
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15516/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Rock
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15517/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Караоке
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15518/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Шансон
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15519/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Музсоюз
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15521/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Музыкальный Новый год!
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16140/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Metal
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17033/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Rap
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17034/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Хит-парад
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17036/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Русский рок
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17037/index.m3u8
+#EXTINF:-1   tvg-rec="0",VB Best Live Performances
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16003/index.m3u8
+#EXTINF:-1   tvg-rec="0",VB Romantic and Ballads
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16014/index.m3u8
+#EXTINF:-1   tvg-rec="0",LoveIsRadio.by
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16015/index.m3u8
+#EXTINF:-1   tvg-rec="0",InRating TV HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16020/index.m3u8
+#EXTINF:-1   tvg-rec="0",Радио Шансон тв HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16036/index.m3u8
+#EXTINF:-1   tvg-rec="0",Muzzik Zz 4K
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16044/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Микс Music FHD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16070/index.m3u8
+#EXTINF:-1   tvg-rec="0",Kiss Kiss Tv HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16072/index.m3u8
+#EXTINF:-1   tvg-rec="0",Kiss Kiss Italia HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16073/index.m3u8
+#EXTINF:-1   tvg-rec="0",Kiss Kiss Napoli HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16074/index.m3u8
+#EXTINF:-1   tvg-rec="0",Zero Uno HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16076/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Music HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16079/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Hit 90
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16081/index.m3u8
+#EXTINF:-1   tvg-rec="0",M6Music HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17045/index.m3u8
+#EXTINF:-1   tvg-rec="0",HIT Music
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17047/index.m3u8
+#EXTINF:-1   tvg-rec="0",Радио ХИТ ОРС HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17048/index.m3u8
+#EXTINF:-1   tvg-rec="0",CONTACT music hd
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17051/index.m3u8
+#EXTINF:-1   tvg-rec="0",VB Modern Talking and Co
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17052/index.m3u8
+#EXTINF:-1   tvg-rec="0",Мелодии и ритмы зарубежной эстрады
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17057/index.m3u8
+#EXTINF:-1   tvg-rec="0",AIVA TV HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18033/index.m3u8
+#EXTINF:-1   tvg-rec="0",Backus TV Music HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18040/index.m3u8
+#EXTINF:-1   tvg-rec="0",Vh 1 FHD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18041/index.m3u8
+#EXTINF:-1   tvg-rec="0",IMUZZ MUSIC HITS
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18054/index.m3u8
+#EXTINF:-1   tvg-rec="0",Музыка 1 HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18077/index.m3u8
+#EXTINF:-1   tvg-rec="0",Музыка 1 International HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18078/index.m3u8
+#EXTINF:-1   tvg-rec="0",Музыка 2 HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18079/index.m3u8
+#EXTINF:-1   tvg-rec="0",Музыка 2 International
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18080/index.m3u8
+#EXTINF:-1   tvg-rec="0",Музыка Кино HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18081/index.m3u8
+#EXTINF:-1   tvg-rec="0",Музыка Кино International
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18082/index.m3u8
+#EXTINF:-1   tvg-rec="0",Балет Опера HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18083/index.m3u8
+#EXTINF:-1   tvg-rec="0",FRESH Pop Hits HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18084/index.m3u8
+#EXTINF:-1   tvg-rec="0",FRESH Russian Pop HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18085/index.m3u8
+#EXTINF:-1   tvg-rec="0",FRESH Sad Music HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18086/index.m3u8
+#EXTINF:-1   tvg-rec="0",FRESH Dance HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18087/index.m3u8
+#EXTINF:-1   tvg-rec="0",FRESH Rock Hits HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18088/index.m3u8
+#EXTINF:-1   tvg-rec="0",FRESH Rock Covers HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18089/index.m3u8
+#EXTINF:-1   tvg-rec="0",FRESH Russian Rap HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18090/index.m3u8
+#EXTINF:-1   tvg-rec="0",FRESH Concerts HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18091/index.m3u8
+#EXTINF:-1   tvg-rec="0",FRESH Retro HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18092/index.m3u8
+#EXTINF:-1   tvg-rec="0",FRESH Lyrics HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18093/index.m3u8
+#EXTINF:-1   tvg-rec="0",MTV Classic USA
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19148/index.m3u8
+#EXTINF:-1   tvg-rec="0",MTV 00's PT
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19159/index.m3u8
+#EXTINF:-1   tvg-rec="0",YES-MTV 00s
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19167/index.m3u8
+#EXTINF:-1   tvg-rec="0",Stars TV HD PL
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19168/index.m3u8
+#EXTINF:-1   tvg-rec="0",Disco Polo Music PL
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19169/index.m3u8
+#EXTINF:-1   tvg-rec="0",Polo TV FHD PL
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19170/index.m3u8
+#EXTINF:-1   tvg-rec="0",Vox Music TV PL
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19171/index.m3u8
+#EXTINF:-1   tvg-rec="0",Eska Rock TV PL
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19172/index.m3u8
+#EXTINF:-1   tvg-rec="0",Eska TV Extra PL
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19173/index.m3u8
+#EXTINF:-1   tvg-rec="0",Eska TV PL
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19174/index.m3u8
+#EXTINF:-1   tvg-rec="0",Box Hits HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19175/index.m3u8
+#EXTINF:-1   tvg-rec="0",MTV Music UK HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19192/index.m3u8
+#EXTINF:-1   tvg-rec="0",Kiss TV UK
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19193/index.m3u8
+#EXTINF:-1   tvg-rec="0",NOW 70s UK
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19194/index.m3u8
+#EXTINF:-1   tvg-rec="0",Now 70s HD UK
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19195/index.m3u8
+#EXTINF:-1   tvg-rec="0",Now 80s HD UK
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19196/index.m3u8
+#EXTINF:-1   tvg-rec="0",Now 90s HD UK
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19197/index.m3u8
+#EXTINF:-1   tvg-rec="0",MTV Base UK
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19198/index.m3u8
+#EXTINF:-1   tvg-rec="0",NRJ HITS HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19199/index.m3u8
+#EXTINF:-1  tvg-id="tnt-music"   tvg-rec="0",ТНТ Music HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19223/index.m3u8
+#EXTINF:-1  tvg-id="bridge-hd"   tvg-rec="0",Bridge Deluxe HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19224/index.m3u8
+#EXTINF:-1   tvg-rec="0",Bridge Rock HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19225/index.m3u8
+#EXTINF:-1   tvg-rec="0",Bridge Русский Хит HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19226/index.m3u8
+#EXTINF:-1   tvg-rec="0",Bridge Hits HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19227/index.m3u8
+#EXTINF:-1  tvg-id="muztv"   tvg-rec="0",МУЗ-ТВ HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19228/index.m3u8
+#EXTINF:-1   tvg-rec="0",Mafi2a Music HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19235/index.m3u8
+#EXTINF:-1   tvg-rec="0",RU TV HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19247/index.m3u8
+#EXTINF:-1   tvg-rec="0",START World HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19248/index.m3u8
+#EXTINF:-1   tvg-rec="0",Music Box Russia HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19255/index.m3u8
+#EXTINF:-1   tvg-rec="0",M6 Music FHD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19260/index.m3u8
+#EXTINF:-1   tvg-rec="0",CHD-TV RU Rock HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19394/index.m3u8
+#EXTINF:-1   tvg-rec="0",VB Eurodance Hits 90s
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20000/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Concert FHD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20049/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Шансон HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20142/index.m3u8
+#EXTINF:-1   tvg-rec="0",NM Television HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20161/index.m3u8
+#EXTINF:-1   tvg-rec="0",Ё Самара HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20162/index.m3u8
+#EXTINF:-1   tvg-rec="0",Box Rurap HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20171/index.m3u8
+#EXTINF:-1   tvg-rec="0",VB MTV Old Россия HD
+#EXTGRP:музыка
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20174/index.m3u8
+#EXTINF:-1  tvg-id="eda"   tvg-rec="3",Еда
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6009/index.m3u8
+#EXTINF:-1  tvg-id="eda-hd"   tvg-rec="3",Еда Премиум
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/862/index.m3u8
+#EXTINF:-1   tvg-rec="0",78 Канал Санкт-Петербург 
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6144/index.m3u8
+#EXTINF:-1  tvg-id="national-geographic"   tvg-rec="0",National Geographic 
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14000/index.m3u8
+#EXTINF:-1  tvg-id="big-planet"   tvg-rec="0",Big Planet
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14027/index.m3u8
+#EXTINF:-1  tvg-id="outdoor-channel"   tvg-rec="7",Outdoor Channel
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/119/index.m3u8
+#EXTINF:-1   tvg-rec="0",Славянский Мир
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14013/index.m3u8
+#EXTINF:-1  tvg-id="moya-planeta"   tvg-rec="7",Моя Планета
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/117/index.m3u8
+#EXTINF:-1  tvg-id="istoria"   tvg-rec="7",История
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/111/index.m3u8
+#EXTINF:-1  tvg-id="sovsek"   tvg-rec="7",Совершенно секретно
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/121/index.m3u8
+#EXTINF:-1   tvg-rec="7",Россия-Культура
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/505/index.m3u8
+#EXTINF:-1  tvg-id="doktor"   tvg-rec="7",Доктор
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/512/index.m3u8
+#EXTINF:-1  tvg-id="avto24"   tvg-rec="7",Авто 24
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/538/index.m3u8
+#EXTINF:-1  tvg-id="nat-geo-wild"   tvg-rec="7",Nat Geo Wild
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/133/index.m3u8
+#EXTINF:-1  tvg-id="discovery-science"   tvg-rec="7",Discovery Science
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/136/index.m3u8
+#EXTINF:-1  tvg-id="animal-planet-eu"   tvg-rec="7",Animal Planet
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/137/index.m3u8
+#EXTINF:-1  tvg-id="discovery-channel"   tvg-rec="7",Discovery Channel
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/140/index.m3u8
+#EXTINF:-1  tvg-id="avto-plus"   tvg-rec="7",Авто Плюс
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/151/index.m3u8
+#EXTINF:-1  tvg-id="kuxnia-tv"   tvg-rec="7",Кухня ТВ
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/152/index.m3u8
+#EXTINF:-1  tvg-id="vremia"   tvg-rec="7",Время
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/552/index.m3u8
+#EXTINF:-1  tvg-id="domashnie-zhivotnye"   tvg-rec="7",Домашние Животные
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/158/index.m3u8
+#EXTINF:-1  tvg-id="tochka-otryva"   tvg-rec="7",Точка отрыва
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/159/index.m3u8
+#EXTINF:-1  tvg-id="nadezhda"   tvg-rec="3",Надежда
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2153/index.m3u8
+#EXTINF:-1  tvg-id="viasat-nature"   tvg-rec="7",Viju Nature
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/161/index.m3u8
+#EXTINF:-1  tvg-id="viasat-history"   tvg-rec="7",Viju History
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/162/index.m3u8
+#EXTINF:-1  tvg-id="viasat-explore"   tvg-rec="7",Viju Explore
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/163/index.m3u8
+#EXTINF:-1  tvg-id="ocean-tv"   tvg-rec="7",Ocean TV
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/703/index.m3u8
+#EXTINF:-1  tvg-id="bobior"   tvg-rec="7",Бобёр
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/725/index.m3u8
+#EXTINF:-1   tvg-rec="7",Зоопарк
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/731/index.m3u8
+#EXTINF:-1  tvg-id="e-tv"   tvg-rec="7",E TV
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/736/index.m3u8
+#EXTINF:-1  tvg-id="morskoy"   tvg-rec="7",Моя Стихия
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/742/index.m3u8
+#EXTINF:-1  tvg-id="usadba"   tvg-rec="7",Усадьба
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/532/index.m3u8
+#EXTINF:-1  tvg-id="english-club-tv"   tvg-rec="3",English Club TV HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/993/index.m3u8
+#EXTINF:-1   tvg-rec="0",English Class HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15190/index.m3u8
+#EXTINF:-1  tvg-id="h2"   tvg-rec="3",H2
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1052/index.m3u8
+#EXTINF:-1   tvg-rec="3",Classical Harmony
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1037/index.m3u8
+#EXTINF:-1   tvg-rec="3",Travel Channel EN
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1070/index.m3u8
+#EXTINF:-1   tvg-rec="7",History HD CEE
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/837/index.m3u8
+#EXTINF:-1  tvg-id="rtg-tv"   tvg-rec="7",RTG TV
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/841/index.m3u8
+#EXTINF:-1  tvg-id="dikiy"   tvg-rec="7",Дикий
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/847/index.m3u8
+#EXTINF:-1  tvg-id="travel-adventure"   tvg-rec="7",Travel+Adventure
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/850/index.m3u8
+#EXTINF:-1  tvg-id="poexali"   tvg-rec="7",Поехали!
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/135/index.m3u8
+#EXTINF:-1   tvg-rec="7",Galaxy
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2010/index.m3u8
+#EXTINF:-1  tvg-id="oxota-i-rybalka"   tvg-rec="7",Охота и рыбалка
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2019/index.m3u8
+#EXTINF:-1   tvg-rec="7",ЕГЭ ТВ
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2020/index.m3u8
+#EXTINF:-1  tvg-id="hd-media"   tvg-rec="7",HD Media
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2037/index.m3u8
+#EXTINF:-1  tvg-id="365-dnej"   tvg-rec="3",365 дней ТВ
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2040/index.m3u8
+#EXTINF:-1  tvg-id="teleputeshestvia"   tvg-rec="3",Телепутешествия
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2051/index.m3u8
+#EXTINF:-1  tvg-id="tonus-tv"   tvg-rec="3",Тонус ТВ
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2054/index.m3u8
+#EXTINF:-1  tvg-id="tayna"   tvg-rec="3",Тайна
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2059/index.m3u8
+#EXTINF:-1   tvg-rec="3",Нано ТВ
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2081/index.m3u8
+#EXTINF:-1  tvg-id="id-xtra-ru"   tvg-rec="3",Investigation Discovery
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2085/index.m3u8
+#EXTINF:-1  tvg-id="oruzhie"   tvg-rec="3",Оружие
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2087/index.m3u8
+#EXTINF:-1  tvg-id="zootv"   tvg-rec="3",Зоо ТВ
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2100/index.m3u8
+#EXTINF:-1  tvg-id="zhivaya-planeta"   tvg-rec="3",Живая Планета
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2101/index.m3u8
+#EXTINF:-1  tvg-id="nasha-tema"   tvg-rec="3",Наша тема
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2118/index.m3u8
+#EXTINF:-1  tvg-id="nasha-tema"   tvg-rec="7",Наша Тема
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10056/index.m3u8
+#EXTINF:-1  tvg-id="pes-i-ko"   tvg-rec="3",Пёс и Ко
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2123/index.m3u8
+#EXTINF:-1  tvg-id="nauka-20"   tvg-rec="3",Наука HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2155/index.m3u8
+#EXTINF:-1  tvg-id="sea-tv"   tvg-rec="3",Sea TV
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/5036/index.m3u8
+#EXTINF:-1  tvg-id="e-tv"   tvg-rec="3",E TV
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/5048/index.m3u8
+#EXTINF:-1   tvg-rec="0",Museum HD FR
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7246/index.m3u8
+#EXTINF:-1   tvg-rec="0",NatGeo HD DE
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7255/index.m3u8
+#EXTINF:-1   tvg-rec="0",Nat Geo Wild HD DE
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7256/index.m3u8
+#EXTINF:-1   tvg-rec="0",Animal Planet HD DE
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7257/index.m3u8
+#EXTINF:-1   tvg-rec="0",Загородная Жизнь HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7348/index.m3u8
+#EXTINF:-1  tvg-id="morskoy"   tvg-rec="0",Моя Стихия HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7349/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-nature4k"   tvg-rec="0",SKY HIGH NATURE 4K
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14247/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-nature4khdr"   tvg-rec="0",SKY HIGH NATURE 4K HDR
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14248/index.m3u8
+#EXTINF:-1   tvg-rec="0",SKY HIGH DOC UHD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17053/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-nature"   tvg-rec="0",SKY HIGH NATURE FHD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19309/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty BBC FHD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15108/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Авто Гир FHD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15109/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Наука FHD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19305/index.m3u8
+#EXTINF:-1   tvg-rec="0",Univer TV HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15113/index.m3u8
+#EXTINF:-1  tvg-id="glazami-turista"   tvg-rec="0",Глазами Туриста HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15144/index.m3u8
+#EXTINF:-1   tvg-rec="0",Мир Вокруг HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15219/index.m3u8
+#EXTINF:-1  tvg-id="viasat-nature"   tvg-rec="0",Viasat Nature HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15225/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Авто
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15511/index.m3u8
+#EXTINF:-1  tvg-id="vf-oxota"   tvg-rec="0",VF Охота
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15513/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Домашний повар
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15514/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Путешествия
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15515/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Рыбалка
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16138/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Стройка
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16139/index.m3u8
+#EXTINF:-1   tvg-rec="0",Твтур TV
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16008/index.m3u8
+#EXTINF:-1   tvg-rec="0",Дайвинг TV HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16012/index.m3u8
+#EXTINF:-1   tvg-rec="0",Вкусное TV HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16013/index.m3u8
+#EXTINF:-1   tvg-rec="0",Travel Guide TV
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16026/index.m3u8
+#EXTINF:-1   tvg-rec="0",TOUTE L'HISTOIRE HD FR
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17040/index.m3u8
+#EXTINF:-1   tvg-rec="0",HISTOIRE HD FR
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17041/index.m3u8
+#EXTINF:-1   tvg-rec="0",ZDF Info HD DE
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17042/index.m3u8
+#EXTINF:-1   tvg-rec="0",Z! Travel HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17063/index.m3u8
+#EXTINF:-1  tvg-id="mm-mikromir"   tvg-rec="0",MM Микромир HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18193/index.m3u8
+#EXTINF:-1  tvg-id="mm-makromir"   tvg-rec="0",MM Макромир HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18194/index.m3u8
+#EXTINF:-1  tvg-id="mm-megamir"   tvg-rec="0",MM Мегамир HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18195/index.m3u8
+#EXTINF:-1  tvg-id="mm-translation"   tvg-rec="0",MM Translation HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18196/index.m3u8
+#EXTINF:-1   tvg-rec="0",Plan B HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19249/index.m3u8
+#EXTINF:-1   tvg-rec="0",Индия HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19250/index.m3u8
+#EXTINF:-1  tvg-id="hd-life"   tvg-rec="0",HDL HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19251/index.m3u8
+#EXTINF:-1   tvg-rec="0",Рыболов HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19254/index.m3u8
+#EXTINF:-1   tvg-rec="0",Prokop TV Docu
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19314/index.m3u8
+#EXTINF:-1  tvg-id="mm-experiment"   tvg-rec="0",MM Experiment HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19412/index.m3u8
+#EXTINF:-1  tvg-id="mm-otkrytiya"   tvg-rec="0",MM Открытия HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19415/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Docu HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20143/index.m3u8
+#EXTINF:-1  tvg-id="box-docu"   tvg-rec="0",BOX Docu HD
+#EXTGRP:познавательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20153/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Disney Cartoon
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15027/index.m3u8
+#EXTINF:-1  tvg-id="vf-soyuzmultfilm"   tvg-rec="0",VF Союзмультфильм
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14238/index.m3u8
+#EXTINF:-1  tvg-id="vf-eralash"   tvg-rec="0",VF Ералаш
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14163/index.m3u8
+#EXTINF:-1   tvg-rec="7",Tiji TV
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/108/index.m3u8
+#EXTINF:-1   tvg-rec="0",beIN Junior
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6140/index.m3u8
+#EXTINF:-1   tvg-rec="3",NickToons SK
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6095/index.m3u8
+#EXTINF:-1  tvg-id="gulli-girl"   tvg-rec="7",Gulli
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/109/index.m3u8
+#EXTINF:-1  tvg-id="nick-jr"   tvg-rec="7",Nick Jr
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/114/index.m3u8
+#EXTINF:-1  tvg-id="nickelodeon-ru"   tvg-rec="7",Nickelodeon
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/541/index.m3u8
+#EXTINF:-1  tvg-id="detsky-mir"   tvg-rec="7",Детский мир
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/543/index.m3u8
+#EXTINF:-1   tvg-rec="7",Jim Jam
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/138/index.m3u8
+#EXTINF:-1  tvg-id="cartoon-network"   tvg-rec="7",Cartoon Network
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/143/index.m3u8
+#EXTINF:-1  tvg-id="karusel"   tvg-rec="7",Карусель
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/156/index.m3u8
+#EXTINF:-1  tvg-id="ani"   tvg-rec="7",Ani
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/129/index.m3u8
+#EXTINF:-1  tvg-id="mult"   tvg-rec="7",Мульт
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/909/index.m3u8
+#EXTINF:-1  tvg-id="mult"   tvg-rec="3",Мульт HD
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/240/index.m3u8
+#EXTINF:-1  tvg-id="boomerang"   tvg-rec="7",Cartoonito
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/723/index.m3u8
+#EXTINF:-1  tvg-id="o_"   tvg-rec="7",О!
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/727/index.m3u8
+#EXTINF:-1  tvg-id="detsky"   tvg-rec="7",Уникум
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/730/index.m3u8
+#EXTINF:-1  tvg-id="v-gostiax-u-skazki"   tvg-rec="7",В гостях у сказки
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/737/index.m3u8
+#EXTINF:-1  tvg-id="karusel-pl3"   tvg-rec="3",Карусель (+3)
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/740/index.m3u8
+#EXTINF:-1  tvg-id="multimuzyka"   tvg-rec="7",Мультимузыка
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/749/index.m3u8
+#EXTINF:-1  tvg-id="mult"   tvg-rec="7",Мульт HD
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/921/index.m3u8
+#EXTINF:-1  tvg-id="ducktv"   tvg-rec="3",Duck TV
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1031/index.m3u8
+#EXTINF:-1   tvg-rec="0",DuckTV HD
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18138/index.m3u8
+#EXTINF:-1  tvg-id="baby-tv"   tvg-rec="3",Baby TV
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2084/index.m3u8
+#EXTINF:-1   tvg-rec="3",Da Vinci orig
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1033/index.m3u8
+#EXTINF:-1   tvg-rec="3",Da Vinci Kids UA
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1034/index.m3u8
+#EXTINF:-1  tvg-id="malysh"   tvg-rec="3",СуперГерои
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1041/index.m3u8
+#EXTINF:-1   tvg-rec="3",Nickelodeon EN
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1069/index.m3u8
+#EXTINF:-1  tvg-id="nicktoons"   tvg-rec="7",NickToons
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/849/index.m3u8
+#EXTINF:-1  tvg-id="radost-moya"   tvg-rec="7",Радость моя
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/853/index.m3u8
+#EXTINF:-1  tvg-id="ryzhy"   tvg-rec="3",Рыжий
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2052/index.m3u8
+#EXTINF:-1  tvg-id="ginger-hd"   tvg-rec="3",Капитан Фантастика
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2098/index.m3u8
+#EXTINF:-1  tvg-id="tamyr"   tvg-rec="3",Тамыр
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2109/index.m3u8
+#EXTINF:-1  tvg-id="smaylik-tv"   tvg-rec="3",Смайлик ТВ
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2157/index.m3u8
+#EXTINF:-1  tvg-id="multimania"   tvg-rec="3",Мультиландия
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/5055/index.m3u8
+#EXTINF:-1  tvg-id="detsky"   tvg-rec="3",Уникум
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/5056/index.m3u8
+#EXTINF:-1   tvg-rec="0",Polsat Jim Jam PL
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/7298/index.m3u8
+#EXTINF:-1  tvg-id="cartoons-90"   tvg-rec="7",Cartoons 90
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11001/index.m3u8
+#EXTINF:-1  tvg-id="cartoons-short"   tvg-rec="7",Cartoons Short
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11002/index.m3u8
+#EXTINF:-1  tvg-id="cartoons-big"   tvg-rec="7",Cartoons Big
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11003/index.m3u8
+#EXTINF:-1   tvg-rec="7",Кроха ТВ
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11066/index.m3u8
+#EXTINF:-1   tvg-rec="0",Жара kids HD
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14147/index.m3u8
+#EXTINF:-1  tvg-id="skazki-zayki"   tvg-rec="0",Сказки Зайки
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14150/index.m3u8
+#EXTINF:-1  tvg-id="sovmultf"   tvg-rec="0",Советские мультфильмы
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14151/index.m3u8
+#EXTINF:-1   tvg-rec="0",WOW!TV HD
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14168/index.m3u8
+#EXTINF:-1  tvg-id="yosso-kids"   tvg-rec="0",Yosso TV Kids
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14173/index.m3u8
+#EXTINF:-1  tvg-id="yosso-soyuzmult"   tvg-rec="0",Yosso TV Союзмульт
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14178/index.m3u8
+#EXTINF:-1  tvg-id="yosso-ndetskoe"   tvg-rec="0",Yosso TV Наше Детское
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19433/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Ну погоди! HD
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14233/index.m3u8
+#EXTINF:-1  tvg-id="skyhigh-bunny"   tvg-rec="0",Bunny HD
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14239/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Pixar FHD
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15092/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Disney FHD
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15093/index.m3u8
+#EXTINF:-1   tvg-rec="0",Disney HD FR
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15185/index.m3u8
+#EXTINF:-1   tvg-rec="0",Рыжий (Сурдоперевод)
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15280/index.m3u8
+#EXTINF:-1   tvg-rec="0",Карусель +7 (Владивосток)
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15340/index.m3u8
+#EXTINF:-1   tvg-rec="0",Карусель +3 (Омск)
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15436/index.m3u8
+#EXTINF:-1  tvg-id="karusel-pl7"   tvg-rec="0",Карусель +7
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15442/index.m3u8
+#EXTINF:-1   tvg-rec="0",Карусель +0 (Элиста)
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15453/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Мультуб
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15520/index.m3u8
+#EXTINF:-1  tvg-id="vf-nowogodmult"   tvg-rec="0",VF Новогодние мультфильмы
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15523/index.m3u8
+#EXTINF:-1  tvg-id="vf-skubidu"   tvg-rec="0",VF Скуби-Ду
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17007/index.m3u8
+#EXTINF:-1   tvg-rec="0",Любимое ТВ HD
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16007/index.m3u8
+#EXTINF:-1   tvg-rec="0",Kidzone mini HD LV
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18019/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Маша и Медведь HD
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18165/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Союз Мульт HD
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18168/index.m3u8
+#EXTINF:-1   tvg-rec="0",MYTV Kids
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19409/index.m3u8
+#EXTINF:-1  tvg-id="bcu-little"   tvg-rec="0",BCU Little HD
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19425/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Kids FHD
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20047/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Мультики FHD
+#EXTGRP:детские
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20048/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Концерты
+#EXTGRP:развлекательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14159/index.m3u8
+#EXTINF:-1   tvg-rec="7",НАЗАД В 90-e
+#EXTGRP:развлекательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11067/index.m3u8
+#EXTINF:-1   tvg-rec="0",Илья ТВ Юмор HD
+#EXTGRP:развлекательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13000/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Однажды в России HD
+#EXTGRP:развлекательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14223/index.m3u8
+#EXTINF:-1   tvg-rec="0",VB ОСП-Cтудия
+#EXTGRP:развлекательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16004/index.m3u8
+#EXTINF:-1   tvg-rec="0",VB Осторожно Модерн
+#EXTGRP:развлекательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16005/index.m3u8
+#EXTINF:-1   tvg-rec="0",Бьюти TV
+#EXTGRP:развлекательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16010/index.m3u8
+#EXTINF:-1   tvg-rec="0",Релакс TV
+#EXTGRP:развлекательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16011/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Юмор 18+
+#EXTGRP:развлекательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16137/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Comedy Woman
+#EXTGRP:развлекательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18101/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Уральские пельмени
+#EXTGRP:развлекательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18198/index.m3u8
+#EXTINF:-1  tvg-id="vf-kuxnia"   tvg-rec="0",VF Кухня
+#EXTGRP:развлекательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18199/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Баня
+#EXTGRP:развлекательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18200/index.m3u8
+#EXTINF:-1   tvg-rec="0",VF Однажды в России
+#EXTGRP:развлекательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/19286/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Уральские Пельмени HD
+#EXTGRP:развлекательные
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18169/index.m3u8
+#EXTINF:-1  tvg-id="vip-premiere"   tvg-rec="7",Viju+ Premiere HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/202/index.m3u8
+#EXTINF:-1  tvg-id="vip-comedy"   tvg-rec="7",Viju+ Comedy HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/200/index.m3u8
+#EXTINF:-1  tvg-id="vip-megahit"   tvg-rec="7",Viju+ Megahit HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/201/index.m3u8
+#EXTINF:-1  tvg-id="viasat-history"   tvg-rec="7",Viju History HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/203/index.m3u8
+#EXTINF:-1  tvg-id="rossia1"   tvg-rec="7",Россия 1 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/205/index.m3u8
+#EXTINF:-1   tvg-rec="0",Россия 1 HD 50
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15133/index.m3u8
+#EXTINF:-1  tvg-id="match-football3"   tvg-rec="7",Матч! Футбол 3 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/206/index.m3u8
+#EXTINF:-1  tvg-id="match-arena"   tvg-rec="7",Матч! Арена HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/207/index.m3u8
+#EXTINF:-1  tvg-id="hollywood-hd"   tvg-rec="7",Hollywood HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/209/index.m3u8
+#EXTINF:-1  tvg-id="rtg-hd"   tvg-rec="7",RTG HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/210/index.m3u8
+#EXTINF:-1  tvg-id="match-football2"   tvg-rec="7",Матч! Футбол 2 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/211/index.m3u8
+#EXTINF:-1  tvg-id="match-tv"   tvg-rec="7",Матч ТВ HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/212/index.m3u8
+#EXTINF:-1  tvg-id="ntv"   tvg-rec="7",НТВ HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/213/index.m3u8
+#EXTINF:-1   tvg-rec="7",KHL HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/215/index.m3u8
+#EXTINF:-1  tvg-id="animal-planet-eu"   tvg-rec="7",Animal Planet HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/218/index.m3u8
+#EXTINF:-1  tvg-id="match-premier"   tvg-rec="7",Матч! Премьер HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/220/index.m3u8
+#EXTINF:-1  tvg-id="mtv-live-hd"   tvg-rec="7",MTV Live HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/221/index.m3u8
+#EXTINF:-1  tvg-id="match-football1"   tvg-rec="7",Матч! Футбол 1 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/222/index.m3u8
+#EXTINF:-1  tvg-id="nickelodeon-ru"   tvg-rec="7",Nickelodeon HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/223/index.m3u8
+#EXTINF:-1  tvg-id="kinopremiera-hd"   tvg-rec="7",Кинопремьера HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/224/index.m3u8
+#EXTINF:-1  tvg-id="match-igra"   tvg-rec="7",Матч! Игра HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/225/index.m3u8
+#EXTINF:-1  tvg-id="hd-life"   tvg-rec="7",HDL
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/226/index.m3u8
+#EXTINF:-1  tvg-id="discovery-channel"   tvg-rec="7",Discovery Channel HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/227/index.m3u8
+#EXTINF:-1  tvg-id="eurosport1"   tvg-rec="7",Eurosport 1 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/228/index.m3u8
+#EXTINF:-1  tvg-id="amedia-premium"   tvg-rec="7",Amedia Premium HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/229/index.m3u8
+#EXTINF:-1  tvg-id="terra-ru"   tvg-rec="7",TERRA
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/230/index.m3u8
+#EXTINF:-1  tvg-id="history-ru"   tvg-rec="7",History HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/231/index.m3u8
+#EXTINF:-1  tvg-id="tlc"   tvg-rec="7",TLC HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/232/index.m3u8
+#EXTINF:-1  tvg-id="travel-channel"   tvg-rec="7",Travel Channel HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/233/index.m3u8
+#EXTINF:-1  tvg-id="ostrosiuzhetnoe-hd"   tvg-rec="7",Остросюжетное HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/904/index.m3u8
+#EXTINF:-1  tvg-id="domkino-premium"   tvg-rec="7",Дом Кино Премиум HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/911/index.m3u8
+#EXTINF:-1  tvg-id="sts"   tvg-rec="3",СТС HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6303/index.m3u8
+#EXTINF:-1  tvg-id="komedijnoe-hd"   tvg-rec="7",Комедийное HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/912/index.m3u8
+#EXTINF:-1  tvg-id="dushevnoe-hd"   tvg-rec="7",Душевное кино HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/914/index.m3u8
+#EXTINF:-1  tvg-id="nashehd"   tvg-rec="7",Наше HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/915/index.m3u8
+#EXTINF:-1  tvg-id="oxotnik-i-rybolov-hd"   tvg-rec="7",Охотник и Рыболов HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/917/index.m3u8
+#EXTINF:-1  tvg-id="eda-hd"   tvg-rec="7",FoodTime
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/918/index.m3u8
+#EXTINF:-1  tvg-id="bridge-hd"   tvg-rec="7",Bridge Deluxe HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/236/index.m3u8
+#EXTINF:-1  tvg-id="tnt"   tvg-rec="7",ТНТ HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/237/index.m3u8
+#EXTINF:-1  tvg-id="bollywood-hd"   tvg-rec="3",Bollywood HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/239/index.m3u8
+#EXTINF:-1  tvg-id="teledom"   tvg-rec="3",Теледом HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/954/index.m3u8
+#EXTINF:-1   tvg-rec="3",4ever Music HD UA
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/970/index.m3u8
+#EXTINF:-1  tvg-id="nastoyaschee-vremia"   tvg-rec="3",Настоящее время
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/986/index.m3u8
+#EXTINF:-1   tvg-rec="3",This is Bulgaria HD BG
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1043/index.m3u8
+#EXTINF:-1  tvg-id="xsport-ua"   tvg-rec="3",XSPORT HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/996/index.m3u8
+#EXTINF:-1  tvg-id="fastfunbox-hd"   tvg-rec="3",FAST&FUN BOX HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1018/index.m3u8
+#EXTINF:-1  tvg-id="epik-drama"   tvg-rec="3",Epic Drama
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/1048/index.m3u8
+#EXTINF:-1  tvg-id="eureka-hd"   tvg-rec="7",Первый космический HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/908/index.m3u8
+#EXTINF:-1  tvg-id="prikluchenia-hd"   tvg-rec="7",Приключения HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/920/index.m3u8
+#EXTINF:-1  tvg-id="docubox-hd"   tvg-rec="3",DocuBox HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/968/index.m3u8
+#EXTINF:-1   tvg-rec="3",Setanta Eurasia Plus HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/270/index.m3u8
+#EXTINF:-1   tvg-rec="3",Setanta Eurasia HD 
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/271/index.m3u8
+#EXTINF:-1   tvg-rec="3",Setanta Ukraine HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/272/index.m3u8
+#EXTINF:-1  tvg-id="ufc"   tvg-rec="7",Удар
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2000/index.m3u8
+#EXTINF:-1  tvg-id="sts-kids-hd"   tvg-rec="7",СТС Kids HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2001/index.m3u8
+#EXTINF:-1  tvg-id="dikaya-oxota-hd"   tvg-rec="7",Дикая охота HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2004/index.m3u8
+#EXTINF:-1  tvg-id="dikaya-rybalka-hd"   tvg-rec="7",Дикая рыбалка HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2005/index.m3u8
+#EXTINF:-1  tvg-id="dtx"   tvg-rec="7",DTX HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2006/index.m3u8
+#EXTINF:-1  tvg-id="viasat-sport"   tvg-rec="7",Viju+ Sport HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2007/index.m3u8
+#EXTINF:-1  tvg-id="bolshaya-azia"   tvg-rec="7",Большая Азия HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2009/index.m3u8
+#EXTINF:-1  tvg-id="rentv"   tvg-rec="7",Рен ТВ HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2024/index.m3u8
+#EXTINF:-1   tvg-rec="7",C-Music HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2028/index.m3u8
+#EXTINF:-1  tvg-id="h2"   tvg-rec="7",H2 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2033/index.m3u8
+#EXTINF:-1  tvg-id="fashion-one-hd"   tvg-rec="7",Fashion One HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2044/index.m3u8
+#EXTINF:-1  tvg-id="fashion-tv"   tvg-rec="7",Fashion TV HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2045/index.m3u8
+#EXTINF:-1  tvg-id="amedia2"   tvg-rec="7",Amedia 2 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2046/index.m3u8
+#EXTINF:-1  tvg-id="kinouzhas"   tvg-rec="3",Киноужас HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2056/index.m3u8
+#EXTINF:-1  tvg-id="360-podmoskovie"   tvg-rec="3",360 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2065/index.m3u8
+#EXTINF:-1  tvg-id="zhivaya-priroda"   tvg-rec="3",Живая природа HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2074/index.m3u8
+#EXTINF:-1  tvg-id="russky-roman"   tvg-rec="3",Русский роман HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2076/index.m3u8
+#EXTINF:-1  tvg-id="russky-ekstrim"   tvg-rec="3",Russian Extreme HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2077/index.m3u8
+#EXTINF:-1  tvg-id="v-mire-zhivotnyx-hd"   tvg-rec="3",В мире животных HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2089/index.m3u8
+#EXTINF:-1  tvg-id="moya-planeta"   tvg-rec="3",Моя Планета HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2090/index.m3u8
+#EXTINF:-1  tvg-id="kino-tv"   tvg-rec="3",Кино ТВ HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2097/index.m3u8
+#EXTINF:-1  tvg-id="id-xtra-ru"   tvg-rec="3",Investigation Discovery HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2102/index.m3u8
+#EXTINF:-1  tvg-id="glazami-turista"   tvg-rec="3",Глазами Туриста HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2104/index.m3u8
+#EXTINF:-1  tvg-id="nashe-lubimoe-hd"   tvg-rec="3",Наше любимое HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2106/index.m3u8
+#EXTINF:-1   tvg-rec="3",Мир 24 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2107/index.m3u8
+#EXTINF:-1  tvg-id="russky-illuzion"   tvg-rec="3",Русский Иллюзион HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2114/index.m3u8
+#EXTINF:-1   tvg-rec="3",БСТ HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2115/index.m3u8
+#EXTINF:-1   tvg-rec="3",Загородный int HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2124/index.m3u8
+#EXTINF:-1  tvg-id="zhara"   tvg-rec="3",Жара HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2129/index.m3u8
+#EXTINF:-1   tvg-rec="3",MTV HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2130/index.m3u8
+#EXTINF:-1  tvg-id="dorama"   tvg-rec="3",Дорама HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2131/index.m3u8
+#EXTINF:-1   tvg-rec="3",Нано ТВ HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2135/index.m3u8
+#EXTINF:-1  tvg-id="o2tv"   tvg-rec="3",о2тв HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2141/index.m3u8
+#EXTINF:-1   tvg-rec="3",Моторспорт ТВ HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2146/index.m3u8
+#EXTINF:-1   tvg-rec="3",Диалоги о рыбалке HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2394/index.m3u8
+#EXTINF:-1   tvg-rec="3",Clubbing TV HD RU
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2395/index.m3u8
+#EXTINF:-1  tvg-id="fuel-tv-hd"   tvg-rec="3",Fuel TV HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2396/index.m3u8
+#EXTINF:-1   tvg-rec="3",Setanta Qazaqstan HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2399/index.m3u8
+#EXTINF:-1   tvg-rec="3",Jurnal TV HD MD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/5008/index.m3u8
+#EXTINF:-1  tvg-id="piatnica"   tvg-rec="3",Пятница! HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/5031/index.m3u8
+#EXTINF:-1  tvg-id="tv3-ru"   tvg-rec="3",ТВ3 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/5033/index.m3u8
+#EXTINF:-1   tvg-rec="3",E TV HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/5035/index.m3u8
+#EXTINF:-1  tvg-id="arsenaltv"   tvg-rec="3",Арсенал HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/5044/index.m3u8
+#EXTINF:-1   tvg-rec="3",Galaxy HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/5045/index.m3u8
+#EXTINF:-1   tvg-rec="3",Gametoon HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/5049/index.m3u8
+#EXTINF:-1  tvg-id="pobeda"   tvg-rec="3",Победа HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/5052/index.m3u8
+#EXTINF:-1  tvg-id="romantichnoe-hd"   tvg-rec="3",Романтичное HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/5053/index.m3u8
+#EXTINF:-1  tvg-id="denpobedy"   tvg-rec="3",День Победы HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/5054/index.m3u8
+#EXTINF:-1  tvg-id="pro-lyubov"   tvg-rec="3",Про Любовь HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2430/index.m3u8
+#EXTINF:-1   tvg-rec="3",Сочи HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2433/index.m3u8
+#EXTINF:-1  tvg-id="nash-kinopokaz-hd"   tvg-rec="3",Наш Кинопоказ HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2434/index.m3u8
+#EXTINF:-1  tvg-id="blokbaster-hd"   tvg-rec="3",Блокбастер HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2436/index.m3u8
+#EXTINF:-1  tvg-id="khit-hd"   tvg-rec="3",Хит HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2438/index.m3u8
+#EXTINF:-1  tvg-id="kinopokaz-hd"   tvg-rec="3",Кинопоказ HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2439/index.m3u8
+#EXTINF:-1  tvg-id="nashe-muzhskoe-hd"   tvg-rec="3",Наше Мужское HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2440/index.m3u8
+#EXTINF:-1  tvg-id="kamedi"   tvg-rec="3",Камеди HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2441/index.m3u8
+#EXTINF:-1   tvg-rec="3",AIVA TV HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2442/index.m3u8
+#EXTINF:-1  tvg-id="vip-serial"   tvg-rec="3",Viju+ Serial HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/2443/index.m3u8
+#EXTINF:-1  tvg-id="shokiruyushchee-hd"   tvg-rec="3",Шокирующее HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6299/index.m3u8
+#EXTINF:-1  tvg-id="avto-plus"   tvg-rec="3",Авто Плюс HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6369/index.m3u8
+#EXTINF:-1  tvg-id="tnt4"   tvg-rec="3",ТНТ4 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6370/index.m3u8
+#EXTINF:-1  tvg-id="viasat-explore"   tvg-rec="3",Viju Explore HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6381/index.m3u8
+#EXTINF:-1  tvg-id="start"   tvg-rec="3",Старт HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6384/index.m3u8
+#EXTINF:-1  tvg-id="tv1000-action"   tvg-rec="3",Viju TV1000 Action HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6386/index.m3u8
+#EXTINF:-1  tvg-id="tv1000"   tvg-rec="3",Viju TV1000 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6387/index.m3u8
+#EXTINF:-1  tvg-id="tv1000-russkoe-kino"   tvg-rec="0",Viju TV1000 Русское HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6388/index.m3u8
+#EXTINF:-1  tvg-id="sapfir"   tvg-rec="3",Сапфир HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6389/index.m3u8
+#EXTINF:-1   tvg-rec="3",HGTV HD US
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/6391/index.m3u8
+#EXTINF:-1   tvg-rec="0",Матч! Игра HD 50
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10014/index.m3u8
+#EXTINF:-1   tvg-rec="0",Матч! Футбол 1 HD 50
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10015/index.m3u8
+#EXTINF:-1   tvg-rec="0",Матч! Футбол 3 HD 50
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10016/index.m3u8
+#EXTINF:-1   tvg-rec="0",Премиальное HD 50
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10017/index.m3u8
+#EXTINF:-1   tvg-rec="0",Матч ТВ HD 50
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10020/index.m3u8
+#EXTINF:-1   tvg-rec="0",Матч! Премьер HD 50
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10021/index.m3u8
+#EXTINF:-1   tvg-rec="0",National Geographic HD 50
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10023/index.m3u8
+#EXTINF:-1   tvg-rec="0",ТНТ HD 50
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10024/index.m3u8
+#EXTINF:-1   tvg-rec="0",FoodTime HD 50
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10025/index.m3u8
+#EXTINF:-1   tvg-rec="0",Food Network HD 50
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10026/index.m3u8
+#EXTINF:-1   tvg-rec="0",Матч! Футбол 2 HD 50
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10027/index.m3u8
+#EXTINF:-1   tvg-rec="0",KHL Prime HD 50
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10028/index.m3u8
+#EXTINF:-1  tvg-id="muzhskoe-kino"   tvg-rec="0",Мужское Кино HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10045/index.m3u8
+#EXTINF:-1  tvg-id="ginger-hd"   tvg-rec="0",Капитан Фантастика HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10046/index.m3u8
+#EXTINF:-1   tvg-rec="7",Viva HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10063/index.m3u8
+#EXTINF:-1   tvg-rec="7",Krone hit HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10065/index.m3u8
+#EXTINF:-1   tvg-rec="7",Mix m tv hd
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10068/index.m3u8
+#EXTINF:-1   tvg-rec="7",Девятая Волна HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10071/index.m3u8
+#EXTINF:-1   tvg-rec="7",Music Top HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10072/index.m3u8
+#EXTINF:-1   tvg-rec="7",Spirit Tv HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10073/index.m3u8
+#EXTINF:-1   tvg-rec="7",Biz music HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10074/index.m3u8
+#EXTINF:-1   tvg-rec="7",Baraza Music HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10077/index.m3u8
+#EXTINF:-1   tvg-rec="7",Sky Sport F1 FHD DE
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/10079/index.m3u8
+#EXTINF:-1  tvg-id="bcu-kinozal-prem-1"   tvg-rec="7",BCU Кинозал Premiere 1 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11015/index.m3u8
+#EXTINF:-1  tvg-id="bcu-kinozal-prem-2"   tvg-rec="7",BCU Кинозал Premiere 2 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11016/index.m3u8
+#EXTINF:-1  tvg-id="bcu-kinozal-prem-3"   tvg-rec="7",BCU Кинозал Premiere 3 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11017/index.m3u8
+#EXTINF:-1  tvg-id="bcu-multserial"   tvg-rec="7",BCU Multserial HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11025/index.m3u8
+#EXTINF:-1  tvg-id="bcu-sssr"   tvg-rec="7",BCU СССР HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11026/index.m3u8
+#EXTINF:-1  tvg-id="bcu-action"   tvg-rec="7",BCU Action HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11027/index.m3u8
+#EXTINF:-1  tvg-id="bcu-catastrophe"   tvg-rec="7",BCU Catastrophe HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11028/index.m3u8
+#EXTINF:-1  tvg-id="bcu-cinema"   tvg-rec="7",BCU Cinema HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11029/index.m3u8
+#EXTINF:-1  tvg-id="bcu-cinemaplus"   tvg-rec="7",BCU Cinema+ HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11030/index.m3u8
+#EXTINF:-1  tvg-id="bcu-comedy"   tvg-rec="7",BCU Comedy HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11031/index.m3u8
+#EXTINF:-1  tvg-id="bcu-fantastic"   tvg-rec="7",BCU Fantastic HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11032/index.m3u8
+#EXTINF:-1  tvg-id="bcu-filmystic"   tvg-rec="7",BCU FilMystic HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11033/index.m3u8
+#EXTINF:-1  tvg-id="bcu-history"   tvg-rec="7",BCU History HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11034/index.m3u8
+#EXTINF:-1  tvg-id="bcu-kids"   tvg-rec="7",BCU Kids HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11035/index.m3u8
+#EXTINF:-1  tvg-id="bcu-kids-plus"   tvg-rec="7",BCU Kids+ HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11036/index.m3u8
+#EXTINF:-1  tvg-id="bcu-kinorating"   tvg-rec="7",BCU Kinorating HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11037/index.m3u8
+#EXTINF:-1  tvg-id="bcu-marvel"   tvg-rec="7",BCU Marvel HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11038/index.m3u8
+#EXTINF:-1  tvg-id="bcu-premiere"   tvg-rec="7",BCU Premiere HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11039/index.m3u8
+#EXTINF:-1  tvg-id="bcu-romantic"   tvg-rec="7",BCU Romantic HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11040/index.m3u8
+#EXTINF:-1  tvg-id="bcu-russian"   tvg-rec="7",BCU Russian HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11041/index.m3u8
+#EXTINF:-1  tvg-id="bcu-vhs"   tvg-rec="7",BCU VHS HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11042/index.m3u8
+#EXTINF:-1  tvg-id="bcu-media"   tvg-rec="7",BCU Media HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11043/index.m3u8
+#EXTINF:-1  tvg-id="bcu-stars"   tvg-rec="7",BCU Stars HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11044/index.m3u8
+#EXTINF:-1  tvg-id="bcu-ultra4k"   tvg-rec="7",BCU Ultra 4K
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11045/index.m3u8
+#EXTINF:-1  tvg-id="bcu-ruserial"   tvg-rec="7",BCU RuSerial HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11046/index.m3u8
+#EXTINF:-1  tvg-id="bcu-svaty"   tvg-rec="7",BCU Сваты HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11047/index.m3u8
+#EXTINF:-1  tvg-id="bcu-criminal"   tvg-rec="7",BCU Criminal HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11048/index.m3u8
+#EXTINF:-1  tvg-id="bcu-reality"   tvg-rec="0",BCU Reality HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/16082/index.m3u8
+#EXTINF:-1  tvg-id="bcu-survival"   tvg-rec="0",BCU Survival HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17019/index.m3u8
+#EXTINF:-1  tvg-id="bcu-cosmo"   tvg-rec="0",BCU Cosmo HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17021/index.m3u8
+#EXTINF:-1  tvg-id="bcu-trumotion"   tvg-rec="0",BCU TruMotion HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17054/index.m3u8
+#EXTINF:-1   tvg-rec="7",Backus TV Original HD 
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11049/index.m3u8
+#EXTINF:-1   tvg-rec="7",BEST Films HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11050/index.m3u8
+#EXTINF:-1   tvg-rec="7",Lost HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11053/index.m3u8
+#EXTINF:-1   tvg-rec="7",Sky2000 HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11054/index.m3u8
+#EXTINF:-1   tvg-rec="7",Весёлая Карусель HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11057/index.m3u8
+#EXTINF:-1   tvg-rec="7",Ералаш HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11058/index.m3u8
+#EXTINF:-1   tvg-rec="7",Кинозал! VHS HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11059/index.m3u8
+#EXTINF:-1   tvg-rec="7",Кинозал! ХИТ HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11064/index.m3u8
+#EXTINF:-1   tvg-rec="7",Космо HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11065/index.m3u8
+#EXTINF:-1   tvg-rec="7",Страх HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11069/index.m3u8
+#EXTINF:-1   tvg-rec="7",Фантастика HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11070/index.m3u8
+#EXTINF:-1  tvg-id="premiere-hd"   tvg-rec="7",Premiere HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11094/index.m3u8
+#EXTINF:-1  tvg-id="premium-hd"   tvg-rec="7",Premium HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11095/index.m3u8
+#EXTINF:-1  tvg-id="rukino-hd"   tvg-rec="7",РуКино HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11096/index.m3u8
+#EXTINF:-1  tvg-id="victory-hd"   tvg-rec="7",Victory HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11097/index.m3u8
+#EXTINF:-1  tvg-id="paradox-hd"   tvg-rec="7",Paradox HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11098/index.m3u8
+#EXTINF:-1  tvg-id="thriller-hd"   tvg-rec="7",Thriller HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11099/index.m3u8
+#EXTINF:-1  tvg-id="paradise-hd"   tvg-rec="7",Paradise HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11100/index.m3u8
+#EXTINF:-1  tvg-id="serial-hd"   tvg-rec="7",Serial HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11101/index.m3u8
+#EXTINF:-1   tvg-rec="7",Илья ТВ Кино HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11103/index.m3u8
+#EXTINF:-1   tvg-rec="7",Илья ТВ Микс HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11104/index.m3u8
+#EXTINF:-1   tvg-rec="7",Илья ТВ Музыка HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11105/index.m3u8
+#EXTINF:-1   tvg-rec="7",Илья ТВ Наше HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/11106/index.m3u8
+#EXTINF:-1  tvg-id="onemuz"   tvg-rec="0",Первый музыкальный HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14142/index.m3u8
+#EXTINF:-1   tvg-rec="0",Первый музыкальный HD BY
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/14144/index.m3u8
+#EXTINF:-1   tvg-rec="0",Z! Serial HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15140/index.m3u8
+#EXTINF:-1   tvg-rec="0",Z! Sitcom HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15141/index.m3u8
+#EXTINF:-1   tvg-rec="0",Z! Smile HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/15142/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Планета360 FHD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17026/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Бебимульт FHD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17027/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Занавес  HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17028/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Аниме FHD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17029/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Шоу FHD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17030/index.m3u8
+#EXTINF:-1  tvg-id="christmas-hd"   tvg-rec="0",Christmas HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/17031/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Swiridenko TV HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18106/index.m3u8
+#EXTINF:-1   tvg-rec="0",UZ Swiridenko TV HD 2
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/18107/index.m3u8
+#EXTINF:-1   tvg-rec="0",VB Контент Моего Детства
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20001/index.m3u8
+#EXTINF:-1  tvg-id="cineman-premium"   tvg-rec="0",CineMan Premium
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20112/index.m3u8
+#EXTINF:-1   tvg-rec="0",Liberty Планктон FHD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20140/index.m3u8
+#EXTINF:-1   tvg-rec="0",Magic Adventure HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20141/index.m3u8
+#EXTINF:-1  tvg-id="box-ghost"   tvg-rec="0",BOX Ghost HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20154/index.m3u8
+#EXTINF:-1  tvg-id="box-stories"   tvg-rec="0",BOX Stories HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20155/index.m3u8
+#EXTINF:-1  tvg-id="box-fantasy"   tvg-rec="0",BOX Fantasy HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20156/index.m3u8
+#EXTINF:-1  tvg-id="box-myday"   tvg-rec="0",BOX Mayday HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20159/index.m3u8
+#EXTINF:-1   tvg-rec="0",VB Назад в СССР HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20175/index.m3u8
+#EXTINF:-1   tvg-rec="0",VB Спецназ-Диверсант HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20176/index.m3u8
+#EXTINF:-1   tvg-rec="0",KLI Netflix HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20177/index.m3u8
+#EXTINF:-1   tvg-rec="0",KBC-Микс UA HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20178/index.m3u8
+#EXTINF:-1   tvg-rec="0",KBC-Гоблин
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20179/index.m3u8
+#EXTINF:-1   tvg-rec="0",DetectiveJam HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20209/index.m3u8
+#EXTINF:-1   tvg-rec="0",FamilyJam HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20210/index.m3u8
+#EXTINF:-1   tvg-rec="0",KION Хит HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20211/index.m3u8
+#EXTINF:-1   tvg-rec="0",Cobra Comedy HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20212/index.m3u8
+#EXTINF:-1   tvg-rec="0",Cobra Detektiv HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20213/index.m3u8
+#EXTINF:-1   tvg-rec="0",Cobra Melodrama HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20214/index.m3u8
+#EXTINF:-1   tvg-rec="0",Cobra Triller HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20215/index.m3u8
+#EXTINF:-1   tvg-rec="0",Eye Family HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20216/index.m3u8
+#EXTINF:-1   tvg-rec="0",Eye History HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20217/index.m3u8
+#EXTINF:-1   tvg-rec="0",Eye Western HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20218/index.m3u8
+#EXTINF:-1   tvg-rec="0",Eye Drive HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20219/index.m3u8
+#EXTINF:-1   tvg-rec="0",Eye Cyber HD
+#EXTGRP:HD
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/20220/index.m3u8
+#EXT-X-ENDLIST
